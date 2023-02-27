@@ -127,8 +127,9 @@ server <- function(input, output, session) {
   })
 
   # Define server logic required to draw a histogram
-  output$lineRevBal <- renderPlotly({
-    ggplotly(createAvgRevTimeSeries(reactiveRevBal(), input$selectArea)) %>%
+  output$lineTimeSeries <- renderPlotly({
+    ggplotly(createTimeSeriesPlot(reactive_teacher_data(), 
+                                  input$breakdown, input$headcount_FTE)) %>%
       config(displayModeBar = F) %>%
       layout(legend = list(orientation = "h", x = 0, y = -0.2))
   })
