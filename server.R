@@ -113,10 +113,17 @@ server <- function(input, output, session) {
 
   # Simple server stuff goes here ------------------------------------------------------------
   reactiveRevBal <- reactive({
-    dfRevBal %>% filter(
-      area_name == input$selectArea | area_name == "England",
-      school_phase == input$selectPhase
-    )
+    if(input$breakdown == 'gender'){
+      teacher_data %>% filter(
+        region_name == input$area, grade == 'Total'
+      )
+    } else if(input$breakdown == 'grade'){
+      teacher_data %>% filter(
+        region_name == input$area, gender == 'Total'
+      ) 
+    }
+    
+    
   })
 
   # Define server logic required to draw a histogram
