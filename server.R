@@ -112,7 +112,7 @@ server <- function(input, output, session) {
   #  output$cookie_status <- renderText(as.character(input$cookies))
 
   # Simple server stuff goes here ------------------------------------------------------------
-  reactiveRevBal <- reactive({
+  reactive_teacher_data <- reactive({
     if(input$breakdown == 'gender'){
       teacher_data %>% filter(
         region_name == input$area, grade == 'Total'
