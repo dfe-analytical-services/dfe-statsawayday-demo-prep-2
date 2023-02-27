@@ -153,16 +153,9 @@ server <- function(input, output, session) {
 
   output$tabBenchmark <- renderDataTable({
     datatable(
-      reactiveBenchmark() %>%
-        select(
-          Area = area_name,
-          `Average Revenue Balance (£)` = average_revenue_balance,
-          `Total Revenue Balance (£m)` = total_revenue_balance_million
-        ),
-      options = list(
-        scrollX = TRUE,
-        paging = FALSE
-      )
+      reactive_teacher_data() %>%
+        select("time_period", input$breakdown, input$headcount_FTE) %>%
+        pivot_wider(names_from = 'time_period', values_from = input$headcount_FTE)
     )
   })
 

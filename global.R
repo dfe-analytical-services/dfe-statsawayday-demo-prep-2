@@ -25,6 +25,7 @@ shhh(library(DT))
 shhh(library(xfun))
 shhh(library(metathis))
 shhh(library(shinyalert))
+shhh(library(tidyr))
 # shhh(library(shinya11y))
 
 # Functions ---------------------------------------------------------------------------------
