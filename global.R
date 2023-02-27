@@ -93,7 +93,10 @@ google_analytics_key <- "Z967JJVQQX"
 source("R/read_data.R")
 
 # Read in the data
-dfRevBal <- read_revenue_data()
+teacher_data <- read_data()
+teacher_data$full_time_equivalent <- round(teacher_data$full_time_equivalent)
+teacher_data$headcount <- round(teacher_data$headcount)
+
 # Get geographical levels from data
 dfAreas <- dfRevBal %>%
   select(

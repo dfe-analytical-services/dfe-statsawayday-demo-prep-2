@@ -1,0 +1,1198 @@
+"","time_period","time_identifier","geographic_level","country_code","country_name","region_code","region_name","grade","gender","full_time_equivalent","headcount"
+"1",202122,"Academic year","National","E92000001","England","","","Total","Total",465526.1779,512007.8697
+"2",202122,"Academic year","National","E92000001","England","","","Head teacher","Total",22105.50137,22385.22188
+"3",202122,"Academic year","National","E92000001","England","","","Deputy head teacher","Total",18154.00238,18665.46974
+"4",202122,"Academic year","National","E92000001","England","","","Assistant head teacher","Total",30513.93727,31786.61889
+"5",202122,"Academic year","National","E92000001","England","","","Classroom teacher","Total",394752.7369,439170.5592
+"6",202122,"Academic year","National","E92000001","England","","","Total","Male",120160.1749,124015.571
+"7",202122,"Academic year","National","E92000001","England","","","Head teacher","Male",7196.503825,7240.602688
+"8",202122,"Academic year","National","E92000001","England","","","Deputy head teacher","Male",5340.32167,5364.066847
+"9",202122,"Academic year","National","E92000001","England","","","Assistant head teacher","Male",9530.669477,9634.622
+"10",202122,"Academic year","National","E92000001","England","","","Classroom teacher","Male",98092.67997,101776.2795
+"11",202122,"Academic year","National","E92000001","England","","","Total","Female",344229.0953,386720.4953
+"12",202122,"Academic year","National","E92000001","England","","","Head teacher","Female",14818.94461,15052.91409
+"13",202122,"Academic year","National","E92000001","England","","","Deputy head teacher","Female",12755.13071,13241.40289
+"14",202122,"Academic year","National","E92000001","England","","","Assistant head teacher","Female",20931.54974,22097.64158
+"15",202122,"Academic year","National","E92000001","England","","","Classroom teacher","Female",295723.4702,336328.5368
+"16",202122,"Academic year","National","E92000001","England","","","Total","Gender Unclassified",1136.907693,1271.803351
+"17",202122,"Academic year","National","E92000001","England","","","Head teacher","Gender Unclassified",90.05294274,91.70509805
+"18",202122,"Academic year","National","E92000001","England","","","Deputy head teacher","Gender Unclassified",58.55,60
+"19",202122,"Academic year","National","E92000001","England","","","Assistant head teacher","Gender Unclassified",51.71805955,54.3553076
+"20",202122,"Academic year","National","E92000001","England","","","Classroom teacher","Gender Unclassified",936.5866903,1065.742946
+"21",202122,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Total",22144.54,23864
+"22",202122,"Academic year","Regional","E92000001","England","E12000001","North East","Head teacher","Total",1146.026836,1162.856464
+"23",202122,"Academic year","Regional","E92000001","England","E12000001","North East","Deputy head teacher","Total",1005.217468,1025.712894
+"24",202122,"Academic year","Regional","E92000001","England","E12000001","North East","Assistant head teacher","Total",1301.116791,1340.772996
+"25",202122,"Academic year","Regional","E92000001","England","E12000001","North East","Classroom teacher","Total",18692.17891,20334.65765
+"26",202122,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Male",5427.860797,5579.913064
+"27",202122,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Female",16716.6792,18284.08694
+"28",202122,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Total",62625.52043,67744.20179
+"29",202122,"Academic year","Regional","E92000001","England","E12000002","North West","Head teacher","Total",3231.263849,3262.780933
+"30",202122,"Academic year","Regional","E92000001","England","E12000002","North West","Deputy head teacher","Total",2700.702539,2750.953154
+"31",202122,"Academic year","Regional","E92000001","England","E12000002","North West","Assistant head teacher","Total",4116.454421,4213.560308
+"32",202122,"Academic year","Regional","E92000001","England","E12000002","North West","Classroom teacher","Total",52577.09963,57516.9074
+"33",202122,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Male",15705.56245,16124.0809
+"34",202122,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Female",46893.10004,51589.10296
+"35",202122,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Gender Unclassified",26.85793722,31.01793722
+"36",202122,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Total",45433,49691.5
+"37",202122,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Head teacher","Total",2276.402161,2308.531549
+"38",202122,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Deputy head teacher","Total",1593.935982,1631.549669
+"39",202122,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Assistant head teacher","Total",3284.604924,3398.839416
+"40",202122,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Classroom teacher","Total",38278.05693,42352.57937
+"41",202122,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Male",11849.07954,12207.2486
+"42",202122,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Female",33579.22046,37479.2514
+"43",202122,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Gender Unclassified",4.7,5
+"44",202122,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Total",39390.07124,43709.68389
+"45",202122,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Head teacher","Total",2052.621203,2077.35022
+"46",202122,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Deputy head teacher","Total",1477.107028,1524.963521
+"47",202122,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Assistant head teacher","Total",2348.535347,2469.316881
+"48",202122,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Classroom teacher","Total",33511.80767,37638.05327
+"49",202122,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Male",10242.71912,10570.86986
+"50",202122,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Female",29135.00212,33125.81403
+"51",202122,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Gender Unclassified",12.35,13
+"52",202122,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Total",52030.41688,56731.1875
+"53",202122,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Head teacher","Total",2432.731994,2456.474516
+"54",202122,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Deputy head teacher","Total",2142.805202,2189.031518
+"55",202122,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Assistant head teacher","Total",3808.247384,3954.702527
+"56",202122,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Classroom teacher","Total",43646.6323,48130.97894
+"57",202122,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Male",13090.20686,13451.93178
+"58",202122,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Female",38173.63001,42421.25572
+"59",202122,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Gender Unclassified",766.58,858
+"60",202122,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Total",51900.20667,58231.66667
+"61",202122,"Academic year","Regional","E92000001","England","E12000006","East of England","Head teacher","Total",2474.573525,2506.674386
+"62",202122,"Academic year","Regional","E92000001","England","E12000006","East of England","Deputy head teacher","Total",2034.38589,2103.832802
+"63",202122,"Academic year","Regional","E92000001","England","E12000006","East of England","Assistant head teacher","Total",3194.990113,3353.932797
+"64",202122,"Academic year","Regional","E92000001","England","E12000006","East of England","Classroom teacher","Total",44196.25714,50267.22668
+"65",202122,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Male",13375.80905,13846.66327
+"66",202122,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Female",38515.34128,44375.99685
+"67",202122,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Gender Unclassified",9.056343296,9.006541778
+"68",202122,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Total",73711.58573,82475.13801
+"69",202122,"Academic year","Regional","E92000001","England","E12000008","South East","Head teacher","Total",3427.029745,3477.861521
+"70",202122,"Academic year","Regional","E92000001","England","E12000008","South East","Deputy head teacher","Total",2662.053082,2756.854821
+"71",202122,"Academic year","Regional","E92000001","England","E12000008","South East","Assistant head teacher","Total",4398.321153,4605.12331
+"72",202122,"Academic year","Regional","E92000001","England","E12000008","South East","Classroom teacher","Total",63224.18175,71635.29836
+"73",202122,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Male",18616.14941,19258.6974
+"74",202122,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Female",54908.06291,63013.66174
+"75",202122,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Gender Unclassified",187.3734121,202.7788722
+"76",202122,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Total",42570.63503,48468.44
+"77",202122,"Academic year","Regional","E92000001","England","E12000009","South West","Head teacher","Total",2308.165699,2337.88969
+"78",202122,"Academic year","Regional","E92000001","England","E12000009","South West","Deputy head teacher","Total",1566.032228,1620.638575
+"79",202122,"Academic year","Regional","E92000001","England","E12000009","South West","Assistant head teacher","Total",2470.718633,2605.04478
+"80",202122,"Academic year","Regional","E92000001","England","E12000009","South West","Classroom teacher","Total",36225.71847,41904.86696
+"81",202122,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Male",11825.9453,12334.19944
+"82",202122,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Female",30631.24973,35999.24056
+"83",202122,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Gender Unclassified",113.44,135
+"84",202122,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Total",27496.72667,29125.95238
+"85",202122,"Academic year","Regional","E92000001","England","E13000001","Inner London","Head teacher","Total",1082.244128,1096.575581
+"86",202122,"Academic year","Regional","E92000001","England","E13000001","Inner London","Deputy head teacher","Total",1163.231558,1196.917774
+"87",202122,"Academic year","Regional","E92000001","England","E13000001","Inner London","Assistant head teacher","Total",2169.776988,2275.217054
+"88",202122,"Academic year","Regional","E92000001","England","E13000001","Inner London","Classroom teacher","Total",23081.47399,24557.24197
+"89",202122,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Male",7742.414622,7997.182447
+"90",202122,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Female",19748.31204,21122.76993
+"91",202122,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Gender Unclassified",6,6
+"92",202122,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Total",48223.47525,51966.09944
+"93",202122,"Academic year","Regional","E92000001","England","E13000002","Outer London","Head teacher","Total",1674.442233,1698.227017
+"94",202122,"Academic year","Regional","E92000001","England","E13000002","Outer London","Deputy head teacher","Total",1808.531407,1865.015009
+"95",202122,"Academic year","Regional","E92000001","England","E13000002","Outer London","Assistant head teacher","Total",3421.17152,3570.108818
+"96",202122,"Academic year","Regional","E92000001","England","E13000002","Outer London","Classroom teacher","Total",41319.33009,44832.74859
+"97",202122,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Male",12284.42779,12644.78424
+"98",202122,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Female",35928.49747,39309.3152
+"99",202122,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Gender Unclassified",10.55,12
+"100",202021,"Academic year","National","E92000001","England","","","Total","Total",461104.3426,508095.9343
+"101",202021,"Academic year","National","E92000001","England","","","Head teacher","Total",22090.86992,22362.73002
+"102",202021,"Academic year","National","E92000001","England","","","Deputy head teacher","Total",18227.35772,18745.30024
+"103",202021,"Academic year","National","E92000001","England","","","Assistant head teacher","Total",29904.87111,31169.46786
+"104",202021,"Academic year","National","E92000001","England","","","Classroom teacher","Total",390881.2438,435818.4362
+"105",202021,"Academic year","National","E92000001","England","","","Total","Male",119077.7534,123034.2697
+"106",202021,"Academic year","National","E92000001","England","","","Head teacher","Male",7207.62804,7252.01019
+"107",202021,"Academic year","National","E92000001","England","","","Deputy head teacher","Male",5346.331015,5380.833431
+"108",202021,"Academic year","National","E92000001","England","","","Assistant head teacher","Male",9433.298293,9546.855212
+"109",202021,"Academic year","National","E92000001","England","","","Classroom teacher","Male",97090.49608,100854.5709
+"110",202021,"Academic year","National","E92000001","England","","","Total","Female",341961.7441,384993.6064
+"111",202021,"Academic year","National","E92000001","England","","","Head teacher","Female",14881.24188,15108.71983
+"112",202021,"Academic year","National","E92000001","England","","","Deputy head teacher","Female",12877.02671,13360.46681
+"113",202021,"Academic year","National","E92000001","England","","","Assistant head teacher","Female",20471.57282,21622.61265
+"114",202021,"Academic year","National","E92000001","England","","","Classroom teacher","Female",293731.9027,334901.8072
+"115",202021,"Academic year","National","E92000001","England","","","Total","Gender Unclassified",64.84509463,68.05818426
+"116",202021,"Academic year","National","E92000001","England","","","Head teacher","Gender Unclassified",2,2
+"117",202021,"Academic year","National","E92000001","England","","","Deputy head teacher","Gender Unclassified",4,4
+"118",202021,"Academic year","National","E92000001","England","","","Classroom teacher","Gender Unclassified",58.84509463,62.05818426
+"119",202021,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Total",22010.84,23740
+"120",202021,"Academic year","Regional","E92000001","England","E12000001","North East","Head teacher","Total",1151.670988,1164.274559
+"121",202021,"Academic year","Regional","E92000001","England","E12000001","North East","Deputy head teacher","Total",1003.692752,1027.390428
+"122",202021,"Academic year","Regional","E92000001","England","E12000001","North East","Assistant head teacher","Total",1269.417738,1312.216625
+"123",202021,"Academic year","Regional","E92000001","England","E12000001","North East","Classroom teacher","Total",18586.05852,20236.11839
+"124",202021,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Male",5417.654076,5570.649874
+"125",202021,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Female",16592.18592,18168.35013
+"126",202021,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Gender Unclassified",1,1
+"127",202021,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Total",61938.1706,67136.09182
+"128",202021,"Academic year","Regional","E92000001","England","E12000002","North West","Head teacher","Total",3248.715626,3282.167909
+"129",202021,"Academic year","Regional","E92000001","England","E12000002","North West","Deputy head teacher","Total",2732.932191,2781.798913
+"130",202021,"Academic year","Regional","E92000001","England","E12000002","North West","Assistant head teacher","Total",4016.213621,4117.418685
+"131",202021,"Academic year","Regional","E92000001","England","E12000002","North West","Classroom teacher","Total",51940.30916,56954.70631
+"132",202021,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Male",15462.00418,15891.47045
+"133",202021,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Female",46466.94468,51234.59964
+"134",202021,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Gender Unclassified",9.221739131,10.02173913
+"135",202021,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Total",44833.87734,49032.60474
+"136",202021,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Head teacher","Total",2281.830754,2314.911041
+"137",202021,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Deputy head teacher","Total",1627.618355,1665.000291
+"138",202021,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Assistant head teacher","Total",3148.492329,3254.459676
+"139",202021,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Classroom teacher","Total",37775.9359,41798.23373
+"140",202021,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Male",11701.01216,12056.36642
+"141",202021,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Female",33131.36518,36974.23833
+"142",202021,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Gender Unclassified",1.5,2
+"143",202021,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Total",38534.64914,42892.4839
+"144",202021,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Head teacher","Total",2037.150592,2065.024445
+"145",202021,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Deputy head teacher","Total",1455.472698,1498.272275
+"146",202021,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Assistant head teacher","Total",2315.839394,2461.498369
+"147",202021,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Classroom teacher","Total",32726.18646,36867.68881
+"148",202021,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Male",9985.892584,10316.56595
+"149",202021,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Female",28529.19071,32555.96588
+"150",202021,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Gender Unclassified",19.56584377,19.95206954
+"151",202021,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Total",51617.42633,56355.95
+"152",202021,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Head teacher","Total",2409.769645,2431.385815
+"153",202021,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Deputy head teacher","Total",2164.584579,2215.127467
+"154",202021,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Assistant head teacher","Total",3731.490928,3873.180398
+"155",202021,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Classroom teacher","Total",43311.58118,47836.25632
+"156",202021,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Male",13108.12488,13491.95802
+"157",202021,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Female",38498.15975,42851.9244
+"158",202021,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Gender Unclassified",11.14170891,12.06757972
+"159",202021,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Total",51240.18,57662
+"160",202021,"Academic year","Regional","E92000001","England","E12000006","East of England","Head teacher","Total",2494.075808,2527.785677
+"161",202021,"Academic year","Regional","E92000001","England","E12000006","East of England","Deputy head teacher","Total",1988.476115,2056.255832
+"162",202021,"Academic year","Regional","E92000001","England","E12000006","East of England","Assistant head teacher","Total",3151.191607,3303.448668
+"163",202021,"Academic year","Regional","E92000001","England","E12000006","East of England","Classroom teacher","Total",43606.43647,49774.50982
+"164",202021,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Male",13168.6465,13659.10206
+"165",202021,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Female",38067.5335,43998.89794
+"166",202021,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Gender Unclassified",4,4
+"167",202021,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Total",72524.7554,81459.8185
+"168",202021,"Academic year","Regional","E92000001","England","E12000008","South East","Head teacher","Total",3383.852896,3425.493866
+"169",202021,"Academic year","Regional","E92000001","England","E12000008","South East","Deputy head teacher","Total",2658.312585,2754.902629
+"170",202021,"Academic year","Regional","E92000001","England","E12000008","South East","Assistant head teacher","Total",4325.523018,4534.195324
+"171",202021,"Academic year","Regional","E92000001","England","E12000008","South East","Classroom teacher","Total",62157.0669,70745.22668
+"172",202021,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Male",18316.4517,18991.4339
+"173",202021,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Female",54206.28789,62466.36781
+"174",202021,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Gender Unclassified",2.015802816,2.016795866
+"175",202021,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Total",41930.24,47830.85714
+"176",202021,"Academic year","Regional","E92000001","England","E12000009","South West","Head teacher","Total",2295.743301,2325.037803
+"177",202021,"Academic year","Regional","E92000001","England","E12000009","South West","Deputy head teacher","Total",1592.321048,1650.049403
+"178",202021,"Academic year","Regional","E92000001","England","E12000009","South West","Assistant head teacher","Total",2332.699341,2450.95672
+"179",202021,"Academic year","Regional","E92000001","England","E12000009","South West","Classroom teacher","Total",35709.47631,41404.81322
+"180",202021,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Male",11689.10591,12184.02188
+"181",202021,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Female",30237.53409,35642.83527
+"182",202021,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Gender Unclassified",3.6,4
+"183",202021,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Total",28014.81667,29687.66667
+"184",202021,"Academic year","Regional","E92000001","England","E13000001","Inner London","Head teacher","Total",1089.169278,1101.46097
+"185",202021,"Academic year","Regional","E92000001","England","E13000001","Inner London","Deputy head teacher","Total",1201.761288,1241.966405
+"186",202021,"Academic year","Regional","E92000001","England","E13000001","Inner London","Assistant head teacher","Total",2184.638452,2289.3662
+"187",202021,"Academic year","Regional","E92000001","England","E13000001","Inner London","Classroom teacher","Total",23539.24765,25054.87309
+"188",202021,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Male",7891.423583,8170.429909
+"189",202021,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Female",20119.39308,21513.23676
+"190",202021,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Gender Unclassified",4,4
+"191",202021,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Total",48459.38712,52298.46154
+"192",202021,"Academic year","Regional","E92000001","England","E13000002","Outer London","Head teacher","Total",1698.891034,1725.187939
+"193",202021,"Academic year","Regional","E92000001","England","E13000002","Outer London","Deputy head teacher","Total",1802.186114,1854.536594
+"194",202021,"Academic year","Regional","E92000001","England","E13000002","Outer London","Assistant head teacher","Total",3429.364683,3572.727194
+"195",202021,"Academic year","Regional","E92000001","England","E13000002","Outer London","Classroom teacher","Total",41528.94528,45146.00981
+"196",202021,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Male",12337.43785,12702.27124
+"197",202021,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Female",36113.14927,39587.1903
+"198",202021,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Gender Unclassified",8.8,9
+"199",201920,"Academic year","National","E92000001","England","","","Total","Total",453819.0807,500772.8086
+"200",201920,"Academic year","National","E92000001","England","","","Head teacher","Total",22153.89706,22399.47921
+"201",201920,"Academic year","National","E92000001","England","","","Deputy head teacher","Total",18524.512,19034.72489
+"202",201920,"Academic year","National","E92000001","England","","","Assistant head teacher","Total",29376.38042,30563.75466
+"203",201920,"Academic year","National","E92000001","England","","","Classroom teacher","Total",383764.2912,428774.8499
+"204",201920,"Academic year","National","E92000001","England","","","Total","Male",117292.082,121359.3778
+"205",201920,"Academic year","National","E92000001","England","","","Head teacher","Male",7291.269026,7334.655435
+"206",201920,"Academic year","National","E92000001","England","","","Deputy head teacher","Male",5488.182438,5520.33566
+"207",201920,"Academic year","National","E92000001","England","","","Assistant head teacher","Male",9276.333701,9377.127057
+"208",201920,"Academic year","National","E92000001","England","","","Classroom teacher","Male",95236.29685,99127.25961
+"209",201920,"Academic year","National","E92000001","England","","","Total","Female",336414.3207,379292.2749
+"210",201920,"Academic year","National","E92000001","England","","","Head teacher","Female",14856.60867,15058.80374
+"211",201920,"Academic year","National","E92000001","England","","","Deputy head teacher","Female",13032.3167,13510.37713
+"212",201920,"Academic year","National","E92000001","England","","","Assistant head teacher","Female",20094.83363,21181.61317
+"213",201920,"Academic year","National","E92000001","England","","","Classroom teacher","Female",288430.5617,329541.4809
+"214",201920,"Academic year","National","E92000001","England","","","Total","Gender Unclassified",112.6779558,121.1559345
+"215",201920,"Academic year","National","E92000001","England","","","Head teacher","Gender Unclassified",6.019364788,6.020034033
+"216",201920,"Academic year","National","E92000001","England","","","Deputy head teacher","Gender Unclassified",4.012862112,4.012096774
+"217",201920,"Academic year","National","E92000001","England","","","Assistant head teacher","Gender Unclassified",5.213088551,5.01442704
+"218",201920,"Academic year","National","E92000001","England","","","Classroom teacher","Gender Unclassified",97.43264035,106.1093767
+"219",201920,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Total",21723.20667,23470.66667
+"220",201920,"Academic year","Regional","E92000001","England","E12000001","North East","Head teacher","Total",1150.643333,1162.333333
+"221",201920,"Academic year","Regional","E92000001","England","E12000001","North East","Deputy head teacher","Total",976.97,998
+"222",201920,"Academic year","Regional","E92000001","England","E12000001","North East","Assistant head teacher","Total",1279.16,1321
+"223",201920,"Academic year","Regional","E92000001","England","E12000001","North East","Classroom teacher","Total",18316.43333,19989.33333
+"224",201920,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Male",5306.47,5472
+"225",201920,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Female",16416.73667,17998.66667
+"226",201920,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Total",61345.91342,66489.15144
+"227",201920,"Academic year","Regional","E92000001","England","E12000002","North West","Head teacher","Total",3261.058167,3290.341111
+"228",201920,"Academic year","Regional","E92000001","England","E12000002","North West","Deputy head teacher","Total",2792.481717,2839.814967
+"229",201920,"Academic year","Regional","E92000001","England","E12000002","North West","Assistant head teacher","Total",3992.182443,4094.299541
+"230",201920,"Academic year","Regional","E92000001","England","E12000002","North West","Classroom teacher","Total",51300.19109,56264.69582
+"231",201920,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Male",15311.51829,15771.43658
+"232",201920,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Female",45961.37928,50639.69321
+"233",201920,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Gender Unclassified",73.01584416,78.02164502
+"234",201920,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Total",44196.51,48386
+"235",201920,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Head teacher","Total",2300.97,2331
+"236",201920,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Deputy head teacher","Total",1636.87,1670
+"237",201920,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Assistant head teacher","Total",3218.58,3330
+"238",201920,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Classroom teacher","Total",37040.09,41055
+"239",201920,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Male",11609.45,11965
+"240",201920,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Female",32582.26,36416
+"241",201920,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Gender Unclassified",4.8,5
+"242",201920,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Total",37850.61892,42211.9535
+"243",201920,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Head teacher","Total",2049.696943,2071.765203
+"244",201920,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Deputy head teacher","Total",1483.932703,1529.484326
+"245",201920,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Assistant head teacher","Total",2197.492813,2287.443203
+"246",201920,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Classroom teacher","Total",32119.49646,36323.26077
+"247",201920,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Male",9886.01296,10235.67699
+"248",201920,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Female",27955.23686,31965.23839
+"249",201920,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Gender Unclassified",9.36909854,11.03812731
+"250",201920,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Total",50893.22,55628.6
+"251",201920,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Head teacher","Total",2410.336004,2435.54993
+"252",201920,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Deputy head teacher","Total",2229.49417,2274.70867
+"253",201920,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Assistant head teacher","Total",3643.5593,3788.526092
+"254",201920,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Classroom teacher","Total",42609.83053,47129.81531
+"255",201920,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Male",12946.14965,13324.90562
+"256",201920,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Female",37943.67035,42299.69438
+"257",201920,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Gender Unclassified",3.4,4
+"258",201920,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Total",50241.06,56737
+"259",201920,"Academic year","Regional","E92000001","England","E12000006","East of England","Head teacher","Total",2488.655436,2516.169028
+"260",201920,"Academic year","Regional","E92000001","England","E12000006","East of England","Deputy head teacher","Total",2026.369982,2090.447745
+"261",201920,"Academic year","Regional","E92000001","England","E12000006","East of England","Assistant head teacher","Total",3063.639641,3210.082428
+"262",201920,"Academic year","Regional","E92000001","England","E12000006","East of England","Classroom teacher","Total",42662.39494,48920.3008
+"263",201920,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Male",12942.10876,13444.01157
+"264",201920,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Female",37290.69673,43283.93001
+"265",201920,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Gender Unclassified",8.254509968,9.058424389
+"266",201920,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Total",70909.80453,79780.77827
+"267",201920,"Academic year","Regional","E92000001","England","E12000008","South East","Head teacher","Total",3407.926613,3450.712732
+"268",201920,"Academic year","Regional","E92000001","England","E12000008","South East","Deputy head teacher","Total",2711.374463,2811.458649
+"269",201920,"Academic year","Regional","E92000001","England","E12000008","South East","Assistant head teacher","Total",4146.177881,4336.427289
+"270",201920,"Academic year","Regional","E92000001","England","E12000008","South East","Classroom teacher","Total",60644.32557,69182.1796
+"271",201920,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Male",17842.80765,18515.72179
+"272",201920,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Female",53062.98402,61261.04438
+"273",201920,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Gender Unclassified",4.012862112,4.012096774
+"274",201920,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Total",41452.20522,47319.49209
+"275",201920,"Academic year","Regional","E92000001","England","E12000009","South West","Head teacher","Total",2285.95473,2314.452124
+"276",201920,"Academic year","Regional","E92000001","England","E12000009","South West","Deputy head teacher","Total",1605.461672,1664.354954
+"277",201920,"Academic year","Regional","E92000001","England","E12000009","South West","Assistant head teacher","Total",2319.062987,2437.059927
+"278",201920,"Academic year","Regional","E92000001","England","E12000009","South West","Classroom teacher","Total",35241.72583,40903.62509
+"279",201920,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Male",11598.35441,12118.05383
+"280",201920,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Female",29848.82516,35196.41262
+"281",201920,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Gender Unclassified",5.025641026,5.025641026
+"282",201920,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Total",27667.9619,29366.66667
+"283",201920,"Academic year","Regional","E92000001","England","E13000001","Inner London","Head teacher","Total",1102.210121,1111.362465
+"284",201920,"Academic year","Regional","E92000001","England","E13000001","Inner London","Deputy head teacher","Total",1215.931942,1255.837535
+"285",201920,"Academic year","Regional","E92000001","England","E13000001","Inner London","Assistant head teacher","Total",2151.972436,2244.422969
+"286",201920,"Academic year","Regional","E92000001","England","E13000001","Inner London","Classroom teacher","Total",23197.84741,24755.0437
+"287",201920,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Male",7760.619586,8055.355742
+"288",201920,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Female",19906.34232,21310.31092
+"289",201920,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Gender Unclassified",1,1
+"290",201920,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Total",47538.58,51382.5
+"291",201920,"Academic year","Regional","E92000001","England","E13000002","Outer London","Head teacher","Total",1696.445712,1715.793287
+"292",201920,"Academic year","Regional","E92000001","England","E13000002","Outer London","Deputy head teacher","Total",1845.625353,1900.618045
+"293",201920,"Academic year","Regional","E92000001","England","E13000002","Outer London","Assistant head teacher","Total",3364.552917,3514.493209
+"294",201920,"Academic year","Regional","E92000001","England","E13000002","Outer London","Classroom teacher","Total",40631.95602,44251.59546
+"295",201920,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Male",12088.59071,12457.21564
+"296",201920,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Female",35446.18929,38921.28436
+"297",201920,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Gender Unclassified",3.8,4
+"298",201819,"Academic year","National","E92000001","England","","","Total","Total",453407.6551,499947.4893
+"299",201819,"Academic year","National","E92000001","England","","","Head teacher","Total",22135.72121,22387.38599
+"300",201819,"Academic year","National","E92000001","England","","","Deputy head teacher","Total",18636.94442,19135.99065
+"301",201819,"Academic year","National","E92000001","England","","","Assistant head teacher","Total",29263.93737,30367.12834
+"302",201819,"Academic year","National","E92000001","England","","","Classroom teacher","Total",383371.0521,428056.9843
+"303",201819,"Academic year","National","E92000001","England","","","Total","Male",117634.6448,121662.8085
+"304",201819,"Academic year","National","E92000001","England","","","Head teacher","Male",7347.016514,7384.222162
+"305",201819,"Academic year","National","E92000001","England","","","Deputy head teacher","Male",5498.429796,5525.709964
+"306",201819,"Academic year","National","E92000001","England","","","Assistant head teacher","Male",9314.086872,9398.719961
+"307",201819,"Academic year","National","E92000001","England","","","Classroom teacher","Male",95475.11158,99354.15644
+"308",201819,"Academic year","National","E92000001","England","","","Total","Female",335654.0159,378156.0558
+"309",201819,"Academic year","National","E92000001","England","","","Head teacher","Female",14783.70469,14998.16383
+"310",201819,"Academic year","National","E92000001","England","","","Deputy head teacher","Female",13134.51463,13606.28069
+"311",201819,"Academic year","National","E92000001","England","","","Assistant head teacher","Female",19940.7505,20959.40838
+"312",201819,"Academic year","National","E92000001","England","","","Classroom teacher","Female",287795.0461,328592.2029
+"313",201819,"Academic year","National","E92000001","England","","","Total","Gender Unclassified",118.9944714,128.62493
+"314",201819,"Academic year","National","E92000001","England","","","Head teacher","Gender Unclassified",5,5
+"315",201819,"Academic year","National","E92000001","England","","","Deputy head teacher","Gender Unclassified",4,4
+"316",201819,"Academic year","National","E92000001","England","","","Assistant head teacher","Gender Unclassified",9.1,9
+"317",201819,"Academic year","National","E92000001","England","","","Classroom teacher","Gender Unclassified",100.8944714,110.62493
+"318",201819,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Total",21849.59,23580.8
+"319",201819,"Academic year","Regional","E92000001","England","E12000001","North East","Head teacher","Total",1156.525693,1168.767366
+"320",201819,"Academic year","Regional","E92000001","England","E12000001","North East","Deputy head teacher","Total",968.8038516,987.6781128
+"321",201819,"Academic year","Regional","E92000001","England","E12000001","North East","Assistant head teacher","Total",1258.319469,1300.174031
+"322",201819,"Academic year","Regional","E92000001","England","E12000001","North East","Classroom teacher","Total",18465.94099,20124.18049
+"323",201819,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Male",5443.108719,5606.683778
+"324",201819,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Female",16402.37224,17970.00704
+"325",201819,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Gender Unclassified",4.109043928,4.109181141
+"326",201819,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Total",61354.51523,66462.56289
+"327",201819,"Academic year","Regional","E92000001","England","E12000002","North West","Head teacher","Total",3249.837913,3279.630803
+"328",201819,"Academic year","Regional","E92000001","England","E12000002","North West","Deputy head teacher","Total",2814.507094,2865.986616
+"329",201819,"Academic year","Regional","E92000001","England","E12000002","North West","Assistant head teacher","Total",3933.974742,4028.890219
+"330",201819,"Academic year","Regional","E92000001","England","E12000002","North West","Classroom teacher","Total",51356.19548,56288.05525
+"331",201819,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Male",15336.98385,15781.32313
+"332",201819,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Female",46010.03189,50672.19205
+"333",201819,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Gender Unclassified",7.499478608,9.047717683
+"334",201819,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Total",44191.06868,48363.09174
+"335",201819,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Head teacher","Total",2284.971782,2316.855159
+"336",201819,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Deputy head teacher","Total",1669.051059,1703.683228
+"337",201819,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Assistant head teacher","Total",3164.890355,3263.070378
+"338",201819,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Classroom teacher","Total",37072.15548,41079.48297
+"339",201819,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Male",11662.2907,12021.22981
+"340",201819,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Female",32527.97797,36339.86192
+"341",201819,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Gender Unclassified",0.8,2
+"342",201819,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Total",37722.10702,41932.32769
+"343",201819,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Head teacher","Total",2050.147899,2070.019535
+"344",201819,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Deputy head teacher","Total",1516.396061,1562.675034
+"345",201819,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Assistant head teacher","Total",2236.47704,2309.701414
+"346",201819,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Classroom teacher","Total",31919.08602,35989.93171
+"347",201819,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Male",9856.812292,10183.14727
+"348",201819,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Female",27859.73382,31742.09297
+"349",201819,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Gender Unclassified",5.560910931,7.087449393
+"350",201819,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Total",50730.47592,55432.72873
+"351",201819,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Head teacher","Total",2422.735998,2441.84027
+"352",201819,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Deputy head teacher","Total",2242.036701,2286.932454
+"353",201819,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Assistant head teacher","Total",3612.077693,3726.962419
+"354",201819,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Classroom teacher","Total",42453.62553,46976.99359
+"355",201819,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Male",12913.96879,13288.24591
+"356",201819,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Female",37737.35625,42060.33451
+"357",201819,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Gender Unclassified",79.15088181,84.14831169
+"358",201819,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Total",50195.44068,56594.52602
+"359",201819,"Academic year","Regional","E92000001","England","E12000006","East of England","Head teacher","Total",2491.951901,2521.800793
+"360",201819,"Academic year","Regional","E92000001","England","E12000006","East of England","Deputy head teacher","Total",2024.55713,2089.498389
+"361",201819,"Academic year","Regional","E92000001","England","E12000006","East of England","Assistant head teacher","Total",3094.223685,3234.364642
+"362",201819,"Academic year","Regional","E92000001","England","E12000006","East of England","Classroom teacher","Total",42584.70797,48748.86219
+"363",201819,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Male",12952.12411,13452.0398
+"364",201819,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Female",37231.18024,43130.3432
+"365",201819,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Gender Unclassified",12.13633389,12.1430206
+"366",201819,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Total",70431.77485,79206.81313
+"367",201819,"Academic year","Regional","E92000001","England","E12000008","South East","Head teacher","Total",3389.701173,3432.060757
+"368",201819,"Academic year","Regional","E92000001","England","E12000008","South East","Deputy head teacher","Total",2699.525746,2791.744526
+"369",201819,"Academic year","Regional","E92000001","England","E12000008","South East","Assistant head teacher","Total",4172.841501,4369.000151
+"370",201819,"Academic year","Regional","E92000001","England","E12000008","South East","Classroom teacher","Total",60169.70643,68614.0077
+"371",201819,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Male",17842.84888,18512.96015
+"372",201819,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Female",52585.92597,60690.85298
+"373",201819,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Gender Unclassified",3,3
+"374",201819,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Total",41290.17091,47237.45455
+"375",201819,"Academic year","Regional","E92000001","England","E12000009","South West","Head teacher","Total",2296.223187,2326.554341
+"376",201819,"Academic year","Regional","E92000001","England","E12000009","South West","Deputy head teacher","Total",1584.554169,1642.508591
+"377",201819,"Academic year","Regional","E92000001","England","E12000009","South West","Assistant head teacher","Total",2283.438562,2402.662116
+"378",201819,"Academic year","Regional","E92000001","England","E12000009","South West","Classroom teacher","Total",35125.95499,40865.7295
+"379",201819,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Male",11539.04669,12083.84462
+"380",201819,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Female",29749.47422,35151.60992
+"381",201819,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Gender Unclassified",1.65,2
+"382",201819,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Total",27798.5831,29415.80952
+"383",201819,"Academic year","Regional","E92000001","England","E13000001","Inner London","Head teacher","Total",1114.212028,1122.416328
+"384",201819,"Academic year","Regional","E92000001","England","E13000001","Inner London","Deputy head teacher","Total",1254.87173,1290.605046
+"385",201819,"Academic year","Regional","E92000001","England","E13000001","Inner London","Assistant head teacher","Total",2105.307174,2182.337189
+"386",201819,"Academic year","Regional","E92000001","England","E13000001","Inner London","Classroom teacher","Total",23324.19216,24820.45096
+"387",201819,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Male",7853.539607,8110.780641
+"388",201819,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Female",19944.04349,21304.02888
+"389",201819,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Gender Unclassified",1,1
+"390",201819,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Total",47843.92875,51721.375
+"391",201819,"Academic year","Regional","E92000001","England","E13000002","Outer London","Head teacher","Total",1679.413632,1707.44064
+"392",201819,"Academic year","Regional","E92000001","England","E13000002","Outer London","Deputy head teacher","Total",1862.640882,1914.678656
+"393",201819,"Academic year","Regional","E92000001","England","E13000002","Outer London","Assistant head teacher","Total",3402.387149,3549.965776
+"394",201819,"Academic year","Regional","E92000001","England","E13000002","Outer London","Classroom teacher","Total",40899.48709,44549.28993
+"395",201819,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Male",12233.92112,12622.55341
+"396",201819,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Female",35605.91981,39094.73234
+"397",201819,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Gender Unclassified",4.087822269,4.089249493
+"398",201718,"Academic year","National","E92000001","England","","","Total","Total",451961.3744,498216.9259
+"399",201718,"Academic year","National","E92000001","England","","","Head teacher","Total",21983.25182,22235.13074
+"400",201718,"Academic year","National","E92000001","England","","","Deputy head teacher","Total",18756.61979,19213.60777
+"401",201718,"Academic year","National","E92000001","England","","","Assistant head teacher","Total",28699.44697,29756.95335
+"402",201718,"Academic year","National","E92000001","England","","","Classroom teacher","Total",382522.0559,427011.234
+"403",201718,"Academic year","National","E92000001","England","","","Total","Male",117693.3557,121741.17
+"404",201718,"Academic year","National","E92000001","England","","","Head teacher","Male",7336.719186,7381.211463
+"405",201718,"Academic year","National","E92000001","England","","","Deputy head teacher","Male",5551.916878,5573.096745
+"406",201718,"Academic year","National","E92000001","England","","","Assistant head teacher","Male",9113.745395,9209.9347
+"407",201718,"Academic year","National","E92000001","England","","","Classroom teacher","Male",95690.97428,99576.92713
+"408",201718,"Academic year","National","E92000001","England","","","Total","Female",334194.3445,376398.4816
+"409",201718,"Academic year","National","E92000001","England","","","Head teacher","Female",14644.53264,14851.91928
+"410",201718,"Academic year","National","E92000001","England","","","Deputy head teacher","Female",13202.90291,13638.51103
+"411",201718,"Academic year","National","E92000001","England","","","Assistant head teacher","Female",19583.70157,20545.01865
+"412",201718,"Academic year","National","E92000001","England","","","Classroom teacher","Female",286763.2074,327363.0327
+"413",201718,"Academic year","National","E92000001","England","","","Total","Gender Unclassified",73.67417772,77.27420467
+"414",201718,"Academic year","National","E92000001","England","","","Head teacher","Gender Unclassified",2,2
+"415",201718,"Academic year","National","E92000001","England","","","Deputy head teacher","Gender Unclassified",1.8,2
+"416",201718,"Academic year","National","E92000001","England","","","Assistant head teacher","Gender Unclassified",2,2
+"417",201718,"Academic year","National","E92000001","England","","","Classroom teacher","Gender Unclassified",67.87417772,71.27420467
+"418",201718,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Total",21879.22343,23594.07143
+"419",201718,"Academic year","Regional","E92000001","England","E12000001","North East","Head teacher","Total",1144.245018,1152.371852
+"420",201718,"Academic year","Regional","E92000001","England","E12000001","North East","Deputy head teacher","Total",975.224386,991.3968557
+"421",201718,"Academic year","Regional","E92000001","England","E12000001","North East","Assistant head teacher","Total",1237.666437,1276.419914
+"422",201718,"Academic year","Regional","E92000001","England","E12000001","North East","Classroom teacher","Total",18522.08759,20173.88281
+"423",201718,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Male",5499.983923,5665.291475
+"424",201718,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Female",16374.23951,17923.77995
+"425",201718,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Gender Unclassified",5,5
+"426",201718,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Total",60926.43246,65907.34866
+"427",201718,"Academic year","Regional","E92000001","England","E12000002","North West","Head teacher","Total",3238.06072,3266.636295
+"428",201718,"Academic year","Regional","E92000001","England","E12000002","North West","Deputy head teacher","Total",2821.40814,2865.102679
+"429",201718,"Academic year","Regional","E92000001","England","E12000002","North West","Assistant head teacher","Total",3845.06608,3926.805149
+"430",201718,"Academic year","Regional","E92000001","England","E12000002","North West","Classroom teacher","Total",51021.89752,55848.80454
+"431",201718,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Male",15316.39507,15735.29915
+"432",201718,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Female",45600.86758,50162.04019
+"433",201718,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Gender Unclassified",9.169811997,10.00932642
+"434",201718,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Total",44019.17667,48187.33333
+"435",201718,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Head teacher","Total",2278.82563,2308.46472
+"436",201718,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Deputy head teacher","Total",1669.231695,1700.827251
+"437",201718,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Assistant head teacher","Total",3072.294411,3172.856448
+"438",201718,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Classroom teacher","Total",36998.82493,41005.18491
+"439",201718,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Male",11670.14552,12021.88808
+"440",201718,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Female",32346.56114,36162.44526
+"441",201718,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Gender Unclassified",2.47,3
+"442",201718,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Total",37623.61837,41862.16788
+"443",201718,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Head teacher","Total",2036.65885,2061.335155
+"444",201718,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Deputy head teacher","Total",1486.133087,1529.041019
+"445",201718,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Assistant head teacher","Total",2200.538575,2271.175018
+"446",201718,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Classroom teacher","Total",31900.28786,36000.61668
+"447",201718,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Male",9817.14725,10165.1432
+"448",201718,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Female",27798.12677,31687.9812
+"449",201718,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Gender Unclassified",8.344347826,9.043478261
+"450",201718,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Total",50653.85909,55338.90909
+"451",201718,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Head teacher","Total",2397.583684,2419.819859
+"452",201718,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Deputy head teacher","Total",2268.917807,2313.456186
+"453",201718,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Assistant head teacher","Total",3599.989722,3708.740529
+"454",201718,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Classroom teacher","Total",42387.36788,46896.89252
+"455",201718,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Male",12936.19294,13325.06562
+"456",201718,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Female",37698.9325,41994.7162
+"457",201718,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Gender Unclassified",18.73364778,19.12726765
+"458",201718,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Total",50074.16586,56529.80863
+"459",201718,"Academic year","Regional","E92000001","England","E12000006","East of England","Head teacher","Total",2486.541503,2514.567623
+"460",201718,"Academic year","Regional","E92000001","England","E12000006","East of England","Deputy head teacher","Total",2059.922575,2114.72959
+"461",201718,"Academic year","Regional","E92000001","England","E12000006","East of England","Assistant head teacher","Total",2963.902627,3083.806582
+"462",201718,"Academic year","Regional","E92000001","England","E12000006","East of England","Classroom teacher","Total",42563.79915,48816.70484
+"463",201718,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Male",12914.91195,13444.09369
+"464",201718,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Female",37152.44391,43078.71495
+"465",201718,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Gender Unclassified",6.81,7
+"466",201718,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Total",70163.32638,78823.97464
+"467",201718,"Academic year","Regional","E92000001","England","E12000008","South East","Head teacher","Total",3373.473208,3414.945517
+"468",201718,"Academic year","Regional","E92000001","England","E12000008","South East","Deputy head teacher","Total",2739.367226,2820.995368
+"469",201718,"Academic year","Regional","E92000001","England","E12000008","South East","Assistant head teacher","Total",4101.021854,4291.217569
+"470",201718,"Academic year","Regional","E92000001","England","E12000008","South East","Classroom teacher","Total",59949.46409,68296.81618
+"471",201718,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Male",17847.3643,18501.03964
+"472",201718,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Female",52313.94527,60320.91947
+"473",201718,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Gender Unclassified",2.016805241,2.015524625
+"474",201718,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Total",41270.47799,47162.33117
+"475",201718,"Academic year","Regional","E92000001","England","E12000009","South West","Head teacher","Total",2275.007319,2311.141354
+"476",201718,"Academic year","Regional","E92000001","England","E12000009","South West","Deputy head teacher","Total",1646.041465,1696.48562
+"477",201718,"Academic year","Regional","E92000001","England","E12000009","South West","Assistant head teacher","Total",2271.833188,2391.980507
+"478",201718,"Academic year","Regional","E92000001","England","E12000009","South West","Classroom teacher","Total",35077.59601,40762.72369
+"479",201718,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Male",11611.92177,12157.25768
+"480",201718,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Female",29656.08548,35002.0537
+"481",201718,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Gender Unclassified",2.470741353,3.019784173
+"482",201718,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Total",27766.615,29396.46667
+"483",201718,"Academic year","Regional","E92000001","England","E13000001","Inner London","Head teacher","Total",1089.606667,1096.066667
+"484",201718,"Academic year","Regional","E92000001","England","E13000001","Inner London","Deputy head teacher","Total",1236.303333,1276.933333
+"485",201718,"Academic year","Regional","E92000001","England","E13000001","Inner London","Assistant head teacher","Total",2154.813333,2245.566667
+"486",201718,"Academic year","Regional","E92000001","England","E13000001","Inner London","Classroom teacher","Total",23285.89167,24777.9
+"487",201718,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Male",7856.683667,8110.566667
+"488",201718,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Female",19900.93133,21276.9
+"489",201718,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Gender Unclassified",9,9
+"490",201718,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Total",47584.47922,51414.51438
+"491",201718,"Academic year","Regional","E92000001","England","E13000002","Outer London","Head teacher","Total",1663.249225,1689.781699
+"492",201718,"Academic year","Regional","E92000001","England","E13000002","Outer London","Deputy head teacher","Total",1854.070075,1904.639869
+"493",201718,"Academic year","Regional","E92000001","England","E13000002","Outer London","Assistant head teacher","Total",3252.320738,3388.384967
+"494",201718,"Academic year","Regional","E92000001","England","E13000002","Outer London","Classroom teacher","Total",40814.83918,44431.70784
+"495",201718,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Male",12222.60936,12615.52484
+"496",201718,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Female",35352.21104,38788.93072
+"497",201718,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Gender Unclassified",9.658823529,10.05882353
+"498",201617,"Academic year","National","E92000001","England","","","Total","Total",457382.6441,504009.5001
+"499",201617,"Academic year","National","E92000001","England","","","Head teacher","Total",21921.41102,22146.45394
+"500",201617,"Academic year","National","E92000001","England","","","Deputy head teacher","Total",19259.93446,19684.9269
+"501",201617,"Academic year","National","E92000001","England","","","Assistant head teacher","Total",28369.22249,29431.76725
+"502",201617,"Academic year","National","E92000001","England","","","Classroom teacher","Total",387832.0762,432746.352
+"503",201617,"Academic year","National","E92000001","England","","","Total","Male",119359.5095,123708.7377
+"504",201617,"Academic year","National","E92000001","England","","","Head teacher","Male",7385.678297,7421.600194
+"505",201617,"Academic year","National","E92000001","England","","","Deputy head teacher","Male",5683.164592,5701.971101
+"506",201617,"Academic year","National","E92000001","England","","","Assistant head teacher","Male",9124.633696,9253.746959
+"507",201617,"Academic year","National","E92000001","England","","","Classroom teacher","Male",97166.03294,101331.4194
+"508",201617,"Academic year","National","E92000001","England","","","Total","Female",337848.2226,380118.8329
+"509",201617,"Academic year","National","E92000001","England","","","Head teacher","Female",14532.70188,14721.82155
+"510",201617,"Academic year","National","E92000001","England","","","Deputy head teacher","Female",13573.56987,13979.9558
+"511",201617,"Academic year","National","E92000001","England","","","Assistant head teacher","Female",19239.35796,20172.98808
+"512",201617,"Academic year","National","E92000001","England","","","Classroom teacher","Female",290502.5929,331244.0675
+"513",201617,"Academic year","National","E92000001","England","","","Total","Gender Unclassified",174.9119534,181.9294877
+"514",201617,"Academic year","National","E92000001","England","","","Head teacher","Gender Unclassified",3.030839263,3.032204082
+"515",201617,"Academic year","National","E92000001","England","","","Deputy head teacher","Gender Unclassified",3.2,3
+"516",201617,"Academic year","National","E92000001","England","","","Assistant head teacher","Gender Unclassified",5.230839263,5.032204082
+"517",201617,"Academic year","National","E92000001","England","","","Classroom teacher","Gender Unclassified",163.4502749,170.8650795
+"518",201617,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Total",22311.21111,23992.22222
+"519",201617,"Academic year","Regional","E92000001","England","E12000001","North East","Head teacher","Total",1161.199619,1170.487179
+"520",201617,"Academic year","Regional","E92000001","England","E12000001","North East","Deputy head teacher","Total",1000.760094,1016.299145
+"521",201617,"Academic year","Regional","E92000001","England","E12000001","North East","Assistant head teacher","Total",1220.835902,1250.196581
+"522",201617,"Academic year","Regional","E92000001","England","E12000001","North East","Classroom teacher","Total",18928.4155,20555.23932
+"523",201617,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Male",5638.78998,5811.029915
+"524",201617,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Female",16658.00113,18166.19231
+"525",201617,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Gender Unclassified",14.42,15
+"526",201617,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Total",61610.13242,66680.42778
+"527",201617,"Academic year","Regional","E92000001","England","E12000002","North West","Head teacher","Total",3270.109931,3296.824599
+"528",201617,"Academic year","Regional","E92000001","England","E12000002","North West","Deputy head teacher","Total",2872.42025,2905.992414
+"529",201617,"Academic year","Regional","E92000001","England","E12000002","North West","Assistant head teacher","Total",3787.050074,3863.277432
+"530",201617,"Academic year","Regional","E92000001","England","E12000002","North West","Classroom teacher","Total",51680.55216,56614.33333
+"531",201617,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Male",15504.13333,15985.67772
+"532",201617,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Female",46088.71684,50676.72866
+"533",201617,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Gender Unclassified",17.28224387,18.02139582
+"534",201617,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Total",44368.06235,48483.46823
+"535",201617,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Head teacher","Total",2260.126519,2279.184301
+"536",201617,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Deputy head teacher","Total",1747.371768,1780.649559
+"537",201617,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Assistant head teacher","Total",3046.609702,3133.97389
+"538",201617,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Classroom teacher","Total",37313.95436,41289.66048
+"539",201617,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Male",11721.60361,12098.93394
+"540",201617,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Female",32635.43874,36372.53429
+"541",201617,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Gender Unclassified",11.02,12
+"542",201617,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Total",37496.04223,41698.03368
+"543",201617,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Head teacher","Total",2006.539197,2029.565552
+"544",201617,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Deputy head teacher","Total",1463.698684,1502.881554
+"545",201617,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Assistant head teacher","Total",2115.585225,2177.572822
+"546",201617,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Classroom teacher","Total",31910.21913,35988.01375
+"547",201617,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Male",9842.022791,10215.75653
+"548",201617,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Female",27638.48536,31465.93394
+"549",201617,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Gender Unclassified",15.53408214,16.34319885
+"550",201617,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Total",51122.53332,55967.93695
+"551",201617,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Head teacher","Total",2392.029172,2410.107604
+"552",201617,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Deputy head teacher","Total",2304.255973,2345.159141
+"553",201617,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Assistant head teacher","Total",3506.882098,3616.562642
+"554",201617,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Classroom teacher","Total",42919.36607,47596.10756
+"555",201617,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Male",13109.64042,13545.7179
+"556",201617,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Female",37954.72106,42362.50509
+"557",201617,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Gender Unclassified",58.17183921,59.71396043
+"558",201617,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Total",50650.48419,57074.83826
+"559",201617,"Academic year","Regional","E92000001","England","E12000006","East of England","Head teacher","Total",2484.357459,2512.207883
+"560",201617,"Academic year","Regional","E92000001","England","E12000006","East of England","Deputy head teacher","Total",2125.027282,2178.179528
+"561",201617,"Academic year","Regional","E92000001","England","E12000006","East of England","Assistant head teacher","Total",2925.037495,3056.608945
+"562",201617,"Academic year","Regional","E92000001","England","E12000006","East of England","Classroom teacher","Total",43116.06196,49327.8419
+"563",201617,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Male",13149.47243,13708.52184
+"564",201617,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Female",37482.39493,43346.70622
+"565",201617,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Gender Unclassified",18.6168325,19.61019215
+"566",201617,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Total",70837.50947,79578.19118
+"567",201617,"Academic year","Regional","E92000001","England","E12000008","South East","Head teacher","Total",3340.117646,3383.381737
+"568",201617,"Academic year","Regional","E92000001","England","E12000008","South East","Deputy head teacher","Total",2830.661823,2911.267769
+"569",201617,"Academic year","Regional","E92000001","England","E12000008","South East","Assistant head teacher","Total",4111.726534,4316.981812
+"570",201617,"Academic year","Regional","E92000001","England","E12000008","South East","Classroom teacher","Total",60555.00347,68966.55986
+"571",201617,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Male",17941.81194,18632.61335
+"572",201617,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Female",52893.69753,60943.57782
+"573",201617,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Gender Unclassified",2,2
+"574",201617,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Total",42394.59642,48385.53312
+"575",201617,"Academic year","Regional","E92000001","England","E12000009","South West","Head teacher","Total",2293.758993,2329.59594
+"576",201617,"Academic year","Regional","E92000001","England","E12000009","South West","Deputy head teacher","Total",1752.974105,1800.914886
+"577",201617,"Academic year","Regional","E92000001","England","E12000009","South West","Assistant head teacher","Total",2277.006275,2388.085852
+"578",201617,"Academic year","Regional","E92000001","England","E12000009","South West","Classroom teacher","Total",36070.85705,41866.93645
+"579",201617,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Male",11999.41837,12562.69237
+"580",201617,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Female",30386.17068,35813.83161
+"581",201617,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Gender Unclassified",9.007368485,9.009149131
+"582",201617,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Total",28540.32488,30215.15098
+"583",201617,"Academic year","Regional","E92000001","England","E13000001","Inner London","Head teacher","Total",1071.386811,1076.043665
+"584",201617,"Academic year","Regional","E92000001","England","E13000001","Inner London","Deputy head teacher","Total",1270.2951,1306.498539
+"585",201617,"Academic year","Regional","E92000001","England","E13000001","Inner London","Assistant head teacher","Total",2090.785127,2170.94518
+"586",201617,"Academic year","Regional","E92000001","England","E13000001","Inner London","Classroom teacher","Total",24107.85784,25661.6636
+"587",201617,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Male",8072.601604,8358.62441
+"588",201617,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Female",20457.72328,21846.52657
+"589",201617,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Gender Unclassified",10,10
+"590",201617,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Total",48051.74774,51933.69767
+"591",201617,"Academic year","Regional","E92000001","England","E13000002","Outer London","Head teacher","Total",1641.785673,1659.055483
+"592",201617,"Academic year","Regional","E92000001","England","E13000002","Outer London","Deputy head teacher","Total",1892.46938,1937.084366
+"593",201617,"Academic year","Regional","E92000001","England","E13000002","Outer London","Assistant head teacher","Total",3287.704059,3457.562092
+"594",201617,"Academic year","Regional","E92000001","England","E13000002","Outer London","Classroom teacher","Total",41229.78863,44879.99573
+"595",201617,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Male",12380.01505,12789.16968
+"596",201617,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Female",35652.8731,39124.29641
+"597",201617,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Gender Unclassified",18.85958719,20.2315913
+"598",201516,"Academic year","National","E92000001","England","","","Total","Total",456972.8793,503123.5475
+"599",201516,"Academic year","National","E92000001","England","","","Head teacher","Total",21496.98027,21698.23002
+"600",201516,"Academic year","National","E92000001","England","","","Deputy head teacher","Total",19248.74541,19669.81291
+"601",201516,"Academic year","National","E92000001","England","","","Assistant head teacher","Total",28114.86659,29125.75959
+"602",201516,"Academic year","National","E92000001","England","","","Classroom teacher","Total",388112.287,432629.745
+"603",201516,"Academic year","National","E92000001","England","","","Total","Male",119611.3038,124096.1416
+"604",201516,"Academic year","National","E92000001","England","","","Head teacher","Male",7292.456799,7335.576808
+"605",201516,"Academic year","National","E92000001","England","","","Deputy head teacher","Male",5734.122235,5762.36842
+"606",201516,"Academic year","National","E92000001","England","","","Assistant head teacher","Male",9166.178874,9313.50689
+"607",201516,"Academic year","National","E92000001","England","","","Classroom teacher","Male",97418.54585,101684.6895
+"608",201516,"Academic year","National","E92000001","England","","","Total","Female",337153.9009,378807.7125
+"609",201516,"Academic year","National","E92000001","England","","","Head teacher","Female",14199.6546,14357.5283
+"610",201516,"Academic year","National","E92000001","England","","","Deputy head teacher","Female",13512.59676,13905.41867
+"611",201516,"Academic year","National","E92000001","England","","","Assistant head teacher","Female",18944.60593,19807.0582
+"612",201516,"Academic year","National","E92000001","England","","","Classroom teacher","Female",290497.0436,330737.7073
+"613",201516,"Academic year","National","E92000001","England","","","Total","Gender Unclassified",207.6746309,219.693387
+"614",201516,"Academic year","National","E92000001","England","","","Head teacher","Gender Unclassified",4.868875908,5.12491297
+"615",201516,"Academic year","National","E92000001","England","","","Deputy head teacher","Gender Unclassified",2.026417825,2.025818073
+"616",201516,"Academic year","National","E92000001","England","","","Assistant head teacher","Gender Unclassified",4.081787159,5.194501088
+"617",201516,"Academic year","National","E92000001","England","","","Classroom teacher","Gender Unclassified",196.69755,207.3481548
+"618",201516,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Total",22350.38,23987
+"619",201516,"Academic year","Regional","E92000001","England","E12000001","North East","Head teacher","Total",1136.878811,1144.6721
+"620",201516,"Academic year","Regional","E92000001","England","E12000001","North East","Deputy head teacher","Total",992.7844991,1009.967302
+"621",201516,"Academic year","Regional","E92000001","England","E12000001","North East","Assistant head teacher","Total",1230.223255,1262.048558
+"622",201516,"Academic year","Regional","E92000001","England","E12000001","North East","Classroom teacher","Total",18990.49343,20570.31204
+"623",201516,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Male",5626.142808,5797.488186
+"624",201516,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Female",16710.43719,18175.51181
+"625",201516,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Gender Unclassified",13.8,14
+"626",201516,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Total",61667.68912,66734.67129
+"627",201516,"Academic year","Regional","E92000001","England","E12000002","North West","Head teacher","Total",3185.424125,3210.646043
+"628",201516,"Academic year","Regional","E92000001","England","E12000002","North West","Deputy head teacher","Total",2859.810279,2902.735732
+"629",201516,"Academic year","Regional","E92000001","England","E12000002","North West","Assistant head teacher","Total",3792.491734,3880.934276
+"630",201516,"Academic year","Regional","E92000001","England","E12000002","North West","Classroom teacher","Total",51829.96298,56740.35523
+"631",201516,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Male",15608.38562,16123.09926
+"632",201516,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Female",46048.79867,50600.52885
+"633",201516,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Gender Unclassified",10.50483136,11.04317966
+"634",201516,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Total",44315.87166,48465.9645
+"635",201516,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Head teacher","Total",2199.566145,2219.884969
+"636",201516,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Deputy head teacher","Total",1750.540555,1787.19969
+"637",201516,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Assistant head teacher","Total",2947.518125,3023.237109
+"638",201516,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Classroom teacher","Total",37418.24683,41435.64273
+"639",201516,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Male",11772.98071,12204.27395
+"640",201516,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Female",32527.99095,36245.69055
+"641",201516,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Gender Unclassified",14.9,16
+"642",201516,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Total",37596.67162,41745.8516
+"643",201516,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Head teacher","Total",2017.085159,2041.815051
+"644",201516,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Deputy head teacher","Total",1495.541732,1531.400928
+"645",201516,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Assistant head teacher","Total",2141.470766,2198.747119
+"646",201516,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Classroom teacher","Total",31942.57396,35973.8885
+"647",201516,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Male",9944.709338,10302.58071
+"648",201516,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Female",27620.73091,31407.4012
+"649",201516,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Gender Unclassified",31.23137137,35.86969348
+"650",201516,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Total",50878.98445,55638.7232
+"651",201516,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Head teacher","Total",2350.492137,2370.989331
+"652",201516,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Deputy head teacher","Total",2287.150273,2324.518813
+"653",201516,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Assistant head teacher","Total",3514.324815,3621.62028
+"654",201516,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Classroom teacher","Total",42727.01723,47321.59477
+"655",201516,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Male",13113.01731,13541.09974
+"656",201516,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Female",37715.35855,42044.81492
+"657",201516,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Gender Unclassified",50.60859338,52.80854057
+"658",201516,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Total",50686.10705,57025.55307
+"659",201516,"Academic year","Regional","E92000001","England","E12000006","East of England","Head teacher","Total",2467.085171,2488.440157
+"660",201516,"Academic year","Regional","E92000001","England","E12000006","East of England","Deputy head teacher","Total",2149.894909,2206.699046
+"661",201516,"Academic year","Regional","E92000001","England","E12000006","East of England","Assistant head teacher","Total",2816.722254,2916.193004
+"662",201516,"Academic year","Regional","E92000001","England","E12000006","East of England","Classroom teacher","Total",43252.40471,49414.22086
+"663",201516,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Male",13229.59122,13823.44294
+"664",201516,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Female",37438.32345,43183.91986
+"665",201516,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Gender Unclassified",18.1923851,18.19027061
+"666",201516,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Total",70908.15013,79500.47125
+"667",201516,"Academic year","Regional","E92000001","England","E12000008","South East","Head teacher","Total",3296.864077,3330.267438
+"668",201516,"Academic year","Regional","E92000001","England","E12000008","South East","Deputy head teacher","Total",2841.568928,2910.855184
+"669",201516,"Academic year","Regional","E92000001","England","E12000008","South East","Assistant head teacher","Total",4053.388648,4262.909031
+"670",201516,"Academic year","Regional","E92000001","England","E12000008","South East","Classroom teacher","Total",60716.32848,68996.4396
+"671",201516,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Male",17942.30561,18634.17789
+"672",201516,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Female",52953.73523,60852.90308
+"673",201516,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Gender Unclassified",12.10929348,13.39028117
+"674",201516,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Total",42372.20477,48265.79543
+"675",201516,"Academic year","Regional","E92000001","England","E12000009","South West","Head teacher","Total",2232.666535,2257.609362
+"676",201516,"Academic year","Regional","E92000001","England","E12000009","South West","Deputy head teacher","Total",1781.107518,1829.63573
+"677",201516,"Academic year","Regional","E92000001","England","E12000009","South West","Assistant head teacher","Total",2271.93341,2370.223463
+"678",201516,"Academic year","Regional","E92000001","England","E12000009","South West","Classroom teacher","Total",36086.49731,41808.32688
+"679",201516,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Male",12023.84267,12594.25984
+"680",201516,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Female",30341.7621,35664.53559
+"681",201516,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Gender Unclassified",6.6,7
+"682",201516,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Total",28065.82716,29702.70989
+"683",201516,"Academic year","Regional","E92000001","England","E13000001","Inner London","Head teacher","Total",1018.037566,1023.267234
+"684",201516,"Academic year","Regional","E92000001","England","E13000001","Inner London","Deputy head teacher","Total",1232.627719,1263.377677
+"685",201516,"Academic year","Regional","E92000001","England","E13000001","Inner London","Assistant head teacher","Total",2043.265582,2118.152957
+"686",201516,"Academic year","Regional","E92000001","England","E13000001","Inner London","Classroom teacher","Total",23771.89629,25297.91202
+"687",201516,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Male",7912.109311,8192.547295
+"688",201516,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Female",20143.26354,21499.55914
+"689",201516,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Gender Unclassified",10.45431284,10.60345932
+"690",201516,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Total",48130.99331,52056.80725
+"691",201516,"Academic year","Regional","E92000001","England","E13000002","Outer London","Head teacher","Total",1592.880546,1610.638333
+"692",201516,"Academic year","Regional","E92000001","England","E13000002","Outer London","Deputy head teacher","Total",1857.719002,1903.422809
+"693",201516,"Academic year","Regional","E92000001","England","E13000002","Outer London","Assistant head teacher","Total",3303.527999,3471.693791
+"694",201516,"Academic year","Regional","E92000001","England","E13000002","Outer London","Classroom teacher","Total",41376.86576,45071.05231
+"695",201516,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Male",12438.21918,12883.17182
+"696",201516,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Female",35653.50029,39132.84746
+"697",201516,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Gender Unclassified",39.27384339,40.78796216
+"698",201415,"Academic year","National","E92000001","England","","","Total","Total",455405.2243,500926.8066
+"699",201415,"Academic year","National","E92000001","England","","","Head teacher","Total",21456.49715,21637.34354
+"700",201415,"Academic year","National","E92000001","England","","","Deputy head teacher","Total",19084.71305,19456.40311
+"701",201415,"Academic year","National","E92000001","England","","","Assistant head teacher","Total",26721.65844,27628.14149
+"702",201415,"Academic year","National","E92000001","England","","","Classroom teacher","Total",388142.3557,432204.9185
+"703",201415,"Academic year","National","E92000001","England","","","Total","Male",119473.91,123969.5756
+"704",201415,"Academic year","National","E92000001","England","","","Head teacher","Male",7318.871152,7358.819362
+"705",201415,"Academic year","National","E92000001","England","","","Deputy head teacher","Male",5815.696772,5834.400321
+"706",201415,"Academic year","National","E92000001","England","","","Assistant head teacher","Male",8858.007641,8978.650465
+"707",201415,"Academic year","National","E92000001","England","","","Classroom teacher","Male",97481.33444,101797.7054
+"708",201415,"Academic year","National","E92000001","England","","","Total","Female",335650.0227,376657.6874
+"709",201415,"Academic year","National","E92000001","England","","","Head teacher","Female",14117.36413,14258.46329
+"710",201415,"Academic year","National","E92000001","England","","","Deputy head teacher","Female",13260.52691,13613.74319
+"711",201415,"Academic year","National","E92000001","England","","","Assistant head teacher","Female",17849.57387,18635.4141
+"712",201415,"Academic year","National","E92000001","England","","","Classroom teacher","Female",290422.5578,330150.0668
+"713",201415,"Academic year","National","E92000001","England","","","Total","Gender Unclassified",281.2915643,299.5436622
+"714",201415,"Academic year","National","E92000001","England","","","Head teacher","Gender Unclassified",20.2618665,20.06089443
+"715",201415,"Academic year","National","E92000001","England","","","Deputy head teacher","Gender Unclassified",8.489365989,8.259597364
+"716",201415,"Academic year","National","E92000001","England","","","Assistant head teacher","Gender Unclassified",14.07692308,14.07692308
+"717",201415,"Academic year","National","E92000001","England","","","Classroom teacher","Gender Unclassified",238.4634088,257.1462474
+"718",201415,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Total",22249.55,23838
+"719",201415,"Academic year","Regional","E92000001","England","E12000001","North East","Head teacher","Total",1144.395925,1149.391424
+"720",201415,"Academic year","Regional","E92000001","England","E12000001","North East","Deputy head teacher","Total",1005.088974,1017.082183
+"721",201415,"Academic year","Regional","E92000001","England","E12000001","North East","Assistant head teacher","Total",1219.934898,1252.52747
+"722",201415,"Academic year","Regional","E92000001","England","E12000001","North East","Classroom teacher","Total",18880.1302,20418.99892
+"723",201415,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Male",5671.153158,5825.460287
+"724",201415,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Female",16567.39684,18001.53971
+"725",201415,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Gender Unclassified",11,11
+"726",201415,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Total",61671.46469,66887.0461
+"727",201415,"Academic year","Regional","E92000001","England","E12000002","North West","Head teacher","Total",3187.805143,3216.918303
+"728",201415,"Academic year","Regional","E92000001","England","E12000002","North West","Deputy head teacher","Total",2872.264021,2905.617279
+"729",201415,"Academic year","Regional","E92000001","England","E12000002","North West","Assistant head teacher","Total",3665.279571,3766.275788
+"730",201415,"Academic year","Regional","E92000001","England","E12000002","North West","Classroom teacher","Total",51946.11596,56998.23473
+"731",201415,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Male",15606.29561,16157.52516
+"732",201415,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Female",46051.38189,50714.43223
+"733",201415,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Gender Unclassified",13.78718912,15.08871322
+"734",201415,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Total",44471.38016,48532.17172
+"735",201415,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Head teacher","Total",2189.513067,2211.526911
+"736",201415,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Deputy head teacher","Total",1807.280735,1836.376587
+"737",201415,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Assistant head teacher","Total",2896.003473,2962.558795
+"738",201415,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Classroom teacher","Total",37578.58289,41521.70942
+"739",201415,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Male",11810.72171,12223.67401
+"740",201415,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Female",32643.88845,36291.49771
+"741",201415,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Gender Unclassified",16.77,17
+"742",201415,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Total",37704.67584,41789.92221
+"743",201415,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Head teacher","Total",2048.709531,2066.493068
+"744",201415,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Deputy head teacher","Total",1502.349944,1536.249335
+"745",201415,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Assistant head teacher","Total",2093.294119,2148.337131
+"746",201415,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Classroom teacher","Total",32060.32224,36038.84267
+"747",201415,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Male",10067.34524,10438.88834
+"748",201415,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Female",27561.19549,31269.30231
+"749",201415,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Gender Unclassified",76.13510521,81.7315564
+"750",201415,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Total",51156.02363,55790.84615
+"751",201415,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Head teacher","Total",2343.929295,2362.824356
+"752",201415,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Deputy head teacher","Total",2238.90354,2279.19617
+"753",201415,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Assistant head teacher","Total",3398.977488,3499.278666
+"754",201415,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Classroom teacher","Total",43174.2133,47649.54696
+"755",201415,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Male",13164.99505,13610.6812
+"756",201415,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Female",37938.11558,42125.15297
+"757",201415,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Gender Unclassified",52.91299812,55.01197735
+"758",201415,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Total",50349.1388,56682.30079
+"759",201415,"Academic year","Regional","E92000001","England","E12000006","East of England","Head teacher","Total",2448.278452,2464.119486
+"760",201415,"Academic year","Regional","E92000001","England","E12000006","East of England","Deputy head teacher","Total",2131.75082,2178.028389
+"761",201415,"Academic year","Regional","E92000001","England","E12000006","East of England","Assistant head teacher","Total",2625.416902,2715.43784
+"762",201415,"Academic year","Regional","E92000001","England","E12000006","East of England","Classroom teacher","Total",43143.69263,49324.71507
+"763",201415,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Male",13198.21772,13800.06182
+"764",201415,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Female",37130.38775,42861.20563
+"765",201415,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Gender Unclassified",20.53333333,21.03333333
+"766",201415,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Total",70683.75397,79053.55077
+"767",201415,"Academic year","Regional","E92000001","England","E12000008","South East","Head teacher","Total",3300.793596,3331.719268
+"768",201415,"Academic year","Regional","E92000001","England","E12000008","South East","Deputy head teacher","Total",2786.222635,2853.252655
+"769",201415,"Academic year","Regional","E92000001","England","E12000008","South East","Assistant head teacher","Total",3821.18499,3992.829403
+"770",201415,"Academic year","Regional","E92000001","England","E12000008","South East","Classroom teacher","Total",60775.55275,68875.74944
+"771",201415,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Male",17923.79965,18599.36815
+"772",201415,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Female",52720.96746,60410.20831
+"773",201415,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Gender Unclassified",38.986851,43.97431085
+"774",201415,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Total",42140.65298,47943.10479
+"775",201415,"Academic year","Regional","E92000001","England","E12000009","South West","Head teacher","Total",2201.5603,2220.131821
+"776",201415,"Academic year","Regional","E92000001","England","E12000009","South West","Deputy head teacher","Total",1737.368959,1779.417066
+"777",201415,"Academic year","Regional","E92000001","England","E12000009","South West","Assistant head teacher","Total",2151.996545,2236.761176
+"778",201415,"Academic year","Regional","E92000001","England","E12000009","South West","Classroom teacher","Total",36049.72718,41706.79473
+"779",201415,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Male",12071.93138,12642.65785
+"780",201415,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Female",30056.22159,35286.34694
+"781",201415,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Gender Unclassified",12.5,14.1
+"782",201415,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Total",27630.15581,29277.94615
+"783",201415,"Academic year","Regional","E92000001","England","E13000001","Inner London","Head teacher","Total",1032.580994,1042.544677
+"784",201415,"Academic year","Regional","E92000001","England","E13000001","Inner London","Deputy head teacher","Total",1158.386275,1190.289488
+"785",201415,"Academic year","Regional","E92000001","England","E13000001","Inner London","Assistant head teacher","Total",1888.768825,1963.622356
+"786",201415,"Academic year","Regional","E92000001","England","E13000001","Inner London","Classroom teacher","Total",23550.41972,25081.48963
+"787",201415,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Male",7728.258093,8015.44102
+"788",201415,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Female",19886.21189,21245.51162
+"789",201415,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Gender Unclassified",15.68583112,16.99351468
+"790",201415,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Total",47348.42841,51131.91795
+"791",201415,"Academic year","Regional","E92000001","England","E13000002","Outer London","Head teacher","Total",1558.930844,1571.674231
+"792",201415,"Academic year","Regional","E92000001","England","E13000002","Outer London","Deputy head teacher","Total",1845.097147,1880.89396
+"793",201415,"Academic year","Regional","E92000001","England","E13000002","Outer London","Assistant head teacher","Total",2960.801628,3090.512861
+"794",201415,"Academic year","Regional","E92000001","England","E13000002","Outer London","Classroom teacher","Total",40983.59879,44588.8369
+"795",201415,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Male",12231.19239,12655.81771
+"796",201415,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Female",35094.25577,38452.48999
+"797",201415,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Gender Unclassified",22.98025641,23.61025641
+"798",201314,"Academic year","National","E92000001","England","","","Total","Total",449625.3243,494638.0035
+"799",201314,"Academic year","National","E92000001","England","","","Head teacher","Total",21503.26351,21657.35547
+"800",201314,"Academic year","National","E92000001","England","","","Deputy head teacher","Total",18764.32593,19092.81718
+"801",201314,"Academic year","National","E92000001","England","","","Assistant head teacher","Total",24644.65847,25441.16147
+"802",201314,"Academic year","National","E92000001","England","","","Classroom teacher","Total",384713.0764,428446.6694
+"803",201314,"Academic year","National","E92000001","England","","","Total","Male",118810.8766,123281.9364
+"804",201314,"Academic year","National","E92000001","England","","","Head teacher","Male",7412.599147,7437.748443
+"805",201314,"Academic year","National","E92000001","England","","","Deputy head teacher","Male",5801.305538,5809.070873
+"806",201314,"Academic year","National","E92000001","England","","","Assistant head teacher","Male",8361.77784,8477.965201
+"807",201314,"Academic year","National","E92000001","England","","","Classroom teacher","Male",97235.19411,101557.1519
+"808",201314,"Academic year","National","E92000001","England","","","Total","Female",330566.3218,371085.1903
+"809",201314,"Academic year","National","E92000001","England","","","Head teacher","Female",14080.15667,14208.60703
+"810",201314,"Academic year","National","E92000001","England","","","Deputy head teacher","Female",12960.00273,13280.72917
+"811",201314,"Academic year","National","E92000001","England","","","Assistant head teacher","Female",16278.06286,16958.17405
+"812",201314,"Academic year","National","E92000001","England","","","Classroom teacher","Female",287248.0995,326637.6801
+"813",201314,"Academic year","National","E92000001","England","","","Total","Gender Unclassified",248.1258981,270.8767732
+"814",201314,"Academic year","National","E92000001","England","","","Head teacher","Gender Unclassified",10.5076923,11
+"815",201314,"Academic year","National","E92000001","England","","","Deputy head teacher","Gender Unclassified",3.017659331,3.017136659
+"816",201314,"Academic year","National","E92000001","England","","","Assistant head teacher","Gender Unclassified",4.817777778,5.022222222
+"817",201314,"Academic year","National","E92000001","England","","","Classroom teacher","Gender Unclassified",229.7827687,251.8374143
+"818",201314,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Total",22107.49711,23681
+"819",201314,"Academic year","Regional","E92000001","England","E12000001","North East","Head teacher","Total",1142.789668,1151.799824
+"820",201314,"Academic year","Regional","E92000001","England","E12000001","North East","Deputy head teacher","Total",950.1929765,961.9300355
+"821",201314,"Academic year","Regional","E92000001","England","E12000001","North East","Assistant head teacher","Total",1177.040203,1210.485177
+"822",201314,"Academic year","Regional","E92000001","England","E12000001","North East","Classroom teacher","Total",18837.47426,20356.78496
+"823",201314,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Male",5783.377247,5939.745469
+"824",201314,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Female",16319.11986,17736.25453
+"825",201314,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Gender Unclassified",5,5
+"826",201314,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Total",60419.15563,65570.01714
+"827",201314,"Academic year","Regional","E92000001","England","E12000002","North West","Head teacher","Total",3161.729154,3188.410428
+"828",201314,"Academic year","Regional","E92000001","England","E12000002","North West","Deputy head teacher","Total",2769.326733,2804.944971
+"829",201314,"Academic year","Regional","E92000001","England","E12000002","North West","Assistant head teacher","Total",3332.197075,3424.011838
+"830",201314,"Academic year","Regional","E92000001","England","E12000002","North West","Classroom teacher","Total",51155.90267,56152.64991
+"831",201314,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Male",15455.50104,16007.83635
+"832",201314,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Female",44910.34158,49502.88938
+"833",201314,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Gender Unclassified",53.31301029,59.29141225
+"834",201314,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Total",44067.81062,48011.53875
+"835",201314,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Head teacher","Total",2200.455228,2222.298614
+"836",201314,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Deputy head teacher","Total",1792.938178,1822.555956
+"837",201314,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Assistant head teacher","Total",2731.160415,2784.206436
+"838",201314,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Classroom teacher","Total",37343.2568,41182.47774
+"839",201314,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Male",11924.14205,12318.71892
+"840",201314,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Female",32131.97339,35680.57869
+"841",201314,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Gender Unclassified",11.69518,12.24113398
+"842",201314,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Total",37057.9232,41138.77979
+"843",201314,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Head teacher","Total",2050.637472,2068.493576
+"844",201314,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Deputy head teacher","Total",1423.286614,1450.76205
+"845",201314,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Assistant head teacher","Total",1915.47953,1955.142696
+"846",201314,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Classroom teacher","Total",31668.51958,35664.38147
+"847",201314,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Male",9960.943341,10343.32977
+"848",201314,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Female",27053.54723,30745.90731
+"849",201314,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Gender Unclassified",43.43262995,49.54271095
+"850",201314,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Total",51032.44622,55700.78765
+"851",201314,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Head teacher","Total",2380.41122,2394.249102
+"852",201314,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Deputy head teacher","Total",2243.572599,2273.70649
+"853",201314,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Assistant head teacher","Total",3100.500466,3174.563155
+"854",201314,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Classroom teacher","Total",43307.96193,47858.26891
+"855",201314,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Male",13313.93026,13798.04627
+"856",201314,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Female",37678.43657,41860.29073
+"857",201314,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Gender Unclassified",40.07938646,42.45065214
+"858",201314,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Total",50047.60732,56311.12095
+"859",201314,"Academic year","Regional","E92000001","England","E12000006","East of England","Head teacher","Total",2480.235588,2487.966548
+"860",201314,"Academic year","Regional","E92000001","England","E12000006","East of England","Deputy head teacher","Total",2078.769979,2116.149458
+"861",201314,"Academic year","Regional","E92000001","England","E12000006","East of England","Assistant head teacher","Total",2527.840707,2624.577662
+"862",201314,"Academic year","Regional","E92000001","England","E12000006","East of England","Classroom teacher","Total",42960.76105,49082.42729
+"863",201314,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Male",13147.75618,13732.01331
+"864",201314,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Female",36874.84933,42551.65485
+"865",201314,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Gender Unclassified",25.00181094,27.45279526
+"866",201314,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Total",70147.64075,78325.79286
+"867",201314,"Academic year","Regional","E92000001","England","E12000008","South East","Head teacher","Total",3283.647927,3304.659163
+"868",201314,"Academic year","Regional","E92000001","England","E12000008","South East","Deputy head teacher","Total",2808.684265,2865.308279
+"869",201314,"Academic year","Regional","E92000001","England","E12000008","South East","Assistant head teacher","Total",3540.852398,3683.383436
+"870",201314,"Academic year","Regional","E92000001","England","E12000008","South East","Classroom teacher","Total",60514.45616,68472.44198
+"871",201314,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Male",17769.60446,18424.74391
+"872",201314,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Female",52367.66566,59889.9804
+"873",201314,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Gender Unclassified",10.37063732,11.06854664
+"874",201314,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Total",41935.7567,47639.81074
+"875",201314,"Academic year","Regional","E92000001","England","E12000009","South West","Head teacher","Total",2241.890224,2256.075279
+"876",201314,"Academic year","Regional","E92000001","England","E12000009","South West","Deputy head teacher","Total",1760.906298,1794.685195
+"877",201314,"Academic year","Regional","E92000001","England","E12000009","South West","Assistant head teacher","Total",1986.541296,2061.662644
+"878",201314,"Academic year","Regional","E92000001","England","E12000009","South West","Classroom teacher","Total",35946.41888,41527.38762
+"879",201314,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Male",12133.59102,12679.21301
+"880",201314,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Female",29795.84546,34953.37566
+"881",201314,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Gender Unclassified",6.32021654,7.222075974
+"882",201314,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Total",26541.07253,28156.60897
+"883",201314,"Academic year","Regional","E92000001","England","E13000001","Inner London","Head teacher","Total",1002.025298,1011.428579
+"884",201314,"Academic year","Regional","E92000001","England","E13000001","Inner London","Deputy head teacher","Total",1120.309501,1154.208837
+"885",201314,"Academic year","Regional","E92000001","England","E13000001","Inner London","Assistant head teacher","Total",1737.473248,1812.382892
+"886",201314,"Academic year","Regional","E92000001","England","E13000001","Inner London","Classroom teacher","Total",22681.26448,24178.58867
+"887",201314,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Male",7319.619797,7593.620694
+"888",201314,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Female",19208.61254,20550.16443
+"889",201314,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Gender Unclassified",12.84018933,12.8238523
+"890",201314,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Total",46268.41426,50102.54667
+"891",201314,"Academic year","Regional","E92000001","England","E13000002","Outer London","Head teacher","Total",1559.441729,1571.97436
+"892",201314,"Academic year","Regional","E92000001","England","E13000002","Outer London","Deputy head teacher","Total",1816.338789,1848.565911
+"893",201314,"Academic year","Regional","E92000001","England","E13000002","Outer London","Assistant head teacher","Total",2595.573136,2710.745538
+"894",201314,"Academic year","Regional","E92000001","England","E13000002","Outer London","Classroom teacher","Total",40297.06061,43971.26086
+"895",201314,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Male",12002.41124,12444.66873
+"896",201314,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Female",34225.93018,37614.09434
+"897",201314,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Gender Unclassified",40.0728373,43.78359375
+"898",201213,"Academic year","National","E92000001","England","","","Total","Total",445216.2983,490084.2308
+"899",201213,"Academic year","National","E92000001","England","","","Head teacher","Total",21291.8711,21478.02186
+"900",201213,"Academic year","National","E92000001","England","","","Deputy head teacher","Total",18584.87964,18936.90127
+"901",201213,"Academic year","National","E92000001","England","","","Assistant head teacher","Total",23460.78089,24248.73265
+"902",201213,"Academic year","National","E92000001","England","","","Classroom teacher","Total",381878.7666,425420.575
+"903",201213,"Academic year","National","E92000001","England","","","Total","Male",118325.7288,122912.0475
+"904",201213,"Academic year","National","E92000001","England","","","Head teacher","Male",7383.231541,7417.990203
+"905",201213,"Academic year","National","E92000001","England","","","Deputy head teacher","Male",5815.654181,5827.049151
+"906",201213,"Academic year","National","E92000001","England","","","Assistant head teacher","Male",8102.289272,8202.72952
+"907",201213,"Academic year","National","E92000001","England","","","Classroom teacher","Male",97024.55379,101464.2786
+"908",201213,"Academic year","National","E92000001","England","","","Total","Female",326416.8337,366683.1698
+"909",201213,"Academic year","National","E92000001","England","","","Head teacher","Female",13897.2698,14048.86654
+"910",201213,"Academic year","National","E92000001","England","","","Deputy head teacher","Female",12758.83436,13099.46141
+"911",201213,"Academic year","National","E92000001","England","","","Assistant head teacher","Female",15346.18922,16033.30231
+"912",201213,"Academic year","National","E92000001","England","","","Classroom teacher","Female",284414.5403,323501.5396
+"913",201213,"Academic year","National","E92000001","England","","","Total","Gender Unclassified",473.7358429,489.0134796
+"914",201213,"Academic year","National","E92000001","England","","","Head teacher","Gender Unclassified",11.36976002,11.1651147
+"915",201213,"Academic year","National","E92000001","England","","","Deputy head teacher","Gender Unclassified",10.39109892,10.39070584
+"916",201213,"Academic year","National","E92000001","England","","","Assistant head teacher","Gender Unclassified",12.30239697,12.70082839
+"917",201213,"Academic year","National","E92000001","England","","","Classroom teacher","Gender Unclassified",439.672587,454.7568307
+"918",201213,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Total",22255.70368,23872.13063
+"919",201213,"Academic year","Regional","E92000001","England","E12000001","North East","Head teacher","Total",1147.219626,1156.603865
+"920",201213,"Academic year","Regional","E92000001","England","E12000001","North East","Deputy head teacher","Total",964.3828936,977.1620467
+"921",201213,"Academic year","Regional","E92000001","England","E12000001","North East","Assistant head teacher","Total",1223.521592,1253.251072
+"922",201213,"Academic year","Regional","E92000001","England","E12000001","North East","Classroom teacher","Total",18920.57957,20485.11365
+"923",201213,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Male",5876.945137,6038.948075
+"924",201213,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Female",16374.75854,17829.18256
+"925",201213,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Gender Unclassified",4,4
+"926",201213,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Total",59488.60238,64687.26622
+"927",201213,"Academic year","Regional","E92000001","England","E12000002","North West","Head teacher","Total",3092.408503,3121.241773
+"928",201213,"Academic year","Regional","E92000001","England","E12000002","North West","Deputy head teacher","Total",2789.522167,2827.147573
+"929",201213,"Academic year","Regional","E92000001","England","E12000002","North West","Assistant head teacher","Total",3269.36066,3348.817919
+"930",201213,"Academic year","Regional","E92000001","England","E12000002","North West","Classroom teacher","Total",50337.31105,55390.05896
+"931",201213,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Male",15352.16481,15886.23252
+"932",201213,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Female",44090.87914,48753.41373
+"933",201213,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Gender Unclassified",45.55843651,47.61997826
+"934",201213,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Total",44339.17476,48533.31655
+"935",201213,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Head teacher","Total",2193.347268,2212.279292
+"936",201213,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Deputy head teacher","Total",1801.678779,1832.317877
+"937",201213,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Assistant head teacher","Total",2593.12247,2662.477714
+"938",201213,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Classroom teacher","Total",37751.02624,41826.24167
+"939",201213,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Male",12049.7481,12534.11302
+"940",201213,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Female",32267.97282,35977.20353
+"941",201213,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Gender Unclassified",21.45384615,22
+"942",201213,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Total",37313.1053,41444.0816
+"943",201213,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Head teacher","Total",2034.609995,2056.24924
+"944",201213,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Deputy head teacher","Total",1427.183193,1456.667353
+"945",201213,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Assistant head teacher","Total",1838.95841,1875.901098
+"946",201213,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Classroom teacher","Total",32012.35371,36055.26391
+"947",201213,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Male",10096.00165,10481.54714
+"948",201213,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Female",27188.0445,30930.00509
+"949",201213,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Gender Unclassified",29.05915755,32.52937225
+"950",201213,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Total",50818.45626,55439.72469
+"951",201213,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Head teacher","Total",2357.65748,2369.920807
+"952",201213,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Deputy head teacher","Total",2201.64122,2229.299442
+"953",201213,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Assistant head teacher","Total",2878.809348,2947.645908
+"954",201213,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Classroom teacher","Total",43380.34821,47892.85853
+"955",201213,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Male",13307.04273,13824.211
+"956",201213,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Female",37257.59986,41357.54117
+"957",201213,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Gender Unclassified",253.8136685,257.9725189
+"958",201213,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Total",49599.80103,55749.06043
+"959",201213,"Academic year","Regional","E92000001","England","E12000006","East of England","Head teacher","Total",2474.818426,2490.512863
+"960",201213,"Academic year","Regional","E92000001","England","E12000006","East of England","Deputy head teacher","Total",2037.574569,2074.8007
+"961",201213,"Academic year","Regional","E92000001","England","E12000006","East of England","Assistant head teacher","Total",2409.793202,2517.808982
+"962",201213,"Academic year","Regional","E92000001","England","E12000006","East of England","Classroom teacher","Total",42677.61483,48665.93788
+"963",201213,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Male",13059.69886,13664.57127
+"964",201213,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Female",36502.14291,42045.2299
+"965",201213,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Gender Unclassified",37.95925926,39.25925926
+"966",201213,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Total",69558.42086,77577.01202
+"967",201213,"Academic year","Regional","E92000001","England","E12000008","South East","Head teacher","Total",3279.273824,3296.734492
+"968",201213,"Academic year","Regional","E92000001","England","E12000008","South East","Deputy head teacher","Total",2754.989577,2806.993836
+"969",201213,"Academic year","Regional","E92000001","England","E12000008","South East","Assistant head teacher","Total",3398.72079,3553.663539
+"970",201213,"Academic year","Regional","E92000001","England","E12000008","South East","Classroom teacher","Total",60125.43667,67919.62015
+"971",201213,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Male",17678.082,18313.68179
+"972",201213,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Female",51860.29163,59242.0708
+"973",201213,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Gender Unclassified",20.04722477,21.25943084
+"974",201213,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Total",41289.7168,46989.97631
+"975",201213,"Academic year","Regional","E92000001","England","E12000009","South West","Head teacher","Total",2268.406534,2300.02831
+"976",201213,"Academic year","Regional","E92000001","England","E12000009","South West","Deputy head teacher","Total",1722.582171,1755.532884
+"977",201213,"Academic year","Regional","E92000001","England","E12000009","South West","Assistant head teacher","Total",1898.340295,1966.023907
+"978",201213,"Academic year","Regional","E92000001","England","E12000009","South West","Classroom teacher","Total",35400.3878,40968.39121
+"979",201213,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Male",12100.49119,12698.90357
+"980",201213,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Female",29176.6213,34277.07275
+"981",201213,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Gender Unclassified",12.60430769,14
+"982",201213,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Total",25224.51796,26735.7923
+"983",201213,"Academic year","Regional","E92000001","England","E13000001","Inner London","Head teacher","Total",972.6481312,979.1407676
+"984",201213,"Academic year","Regional","E92000001","England","E13000001","Inner London","Deputy head teacher","Total",1087.200686,1112.263868
+"985",201213,"Academic year","Regional","E92000001","England","E13000001","Inner London","Assistant head teacher","Total",1567.634935,1644.294559
+"986",201213,"Academic year","Regional","E92000001","England","E13000001","Inner London","Classroom teacher","Total",21597.03421,23000.0931
+"987",201213,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Male",7031.085099,7297.909299
+"988",201213,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Female",18178.4021,19422.283
+"989",201213,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Gender Unclassified",15.03076923,15.6
+"990",201213,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Total",45328.79924,49055.87
+"991",201213,"Academic year","Regional","E92000001","England","E13000002","Outer London","Head teacher","Total",1471.481317,1495.310447
+"992",201213,"Academic year","Regional","E92000001","England","E13000002","Outer London","Deputy head teacher","Total",1798.12438,1864.715691
+"993",201213,"Academic year","Regional","E92000001","England","E13000002","Outer London","Assistant head teacher","Total",2382.51919,2478.847957
+"994",201213,"Academic year","Regional","E92000001","England","E13000002","Outer London","Classroom teacher","Total",39676.67435,43216.9959
+"995",201213,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Male",11774.46921,12171.92979
+"996",201213,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Female",33520.12085,36849.16728
+"997",201213,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Gender Unclassified",34.20917326,34.77292007
+"998",201112,"Academic year","National","E92000001","England","","","Total","Total",439239.6844,483483.5592
+"999",201112,"Academic year","National","E92000001","England","","","Head teacher","Total",21340.08871,21507.94947
+"1000",201112,"Academic year","National","E92000001","England","","","Deputy head teacher","Total",18583.98102,18899.02329
+"1001",201112,"Academic year","National","E92000001","England","","","Assistant head teacher","Total",22651.59829,23405.71739
+"1002",201112,"Academic year","National","E92000001","England","","","Classroom teacher","Total",376664.0164,419670.869
+"1003",201112,"Academic year","National","E92000001","England","","","Total","Male",117573.4336,122166.2536
+"1004",201112,"Academic year","National","E92000001","England","","","Head teacher","Male",7369.209143,7393.701923
+"1005",201112,"Academic year","National","E92000001","England","","","Deputy head teacher","Male",5910.177905,5930.795059
+"1006",201112,"Academic year","National","E92000001","England","","","Assistant head teacher","Male",7901.035597,7995.114035
+"1007",201112,"Academic year","National","E92000001","England","","","Classroom teacher","Male",96393.01097,100846.6426
+"1008",201112,"Academic year","National","E92000001","England","","","Total","Female",321146.2415,360780.2128
+"1009",201112,"Academic year","National","E92000001","England","","","Head teacher","Female",13952.7541,14096.52039
+"1010",201112,"Academic year","National","E92000001","England","","","Deputy head teacher","Female",12658.85258,12953.69577
+"1011",201112,"Academic year","National","E92000001","England","","","Assistant head teacher","Female",14736.41467,15396.19068
+"1012",201112,"Academic year","National","E92000001","England","","","Classroom teacher","Female",279798.2201,318333.8059
+"1013",201112,"Academic year","National","E92000001","England","","","Total","Gender Unclassified",520.0092857,537.0928022
+"1014",201112,"Academic year","National","E92000001","England","","","Head teacher","Gender Unclassified",18.12547353,17.72715563
+"1015",201112,"Academic year","National","E92000001","England","","","Deputy head teacher","Gender Unclassified",14.95052668,14.5324596
+"1016",201112,"Academic year","National","E92000001","England","","","Assistant head teacher","Gender Unclassified",14.1480265,14.41267147
+"1017",201112,"Academic year","National","E92000001","England","","","Classroom teacher","Gender Unclassified",472.785259,490.4205155
+"1018",201112,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Total",22236.19828,23856.75
+"1019",201112,"Academic year","Regional","E92000001","England","E12000001","North East","Head teacher","Total",1148.03558,1159.004655
+"1020",201112,"Academic year","Regional","E92000001","England","E12000001","North East","Deputy head teacher","Total",971.3955728,983.8195737
+"1021",201112,"Academic year","Regional","E92000001","England","E12000001","North East","Assistant head teacher","Total",1225.593838,1259.523028
+"1022",201112,"Academic year","Regional","E92000001","England","E12000001","North East","Classroom teacher","Total",18891.17329,20454.40274
+"1023",201112,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Male",5960.927259,6125.436673
+"1024",201112,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Female",16261.87102,17717.31333
+"1025",201112,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Gender Unclassified",13.4,14
+"1026",201112,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Total",59457.09386,64464.23977
+"1027",201112,"Academic year","Regional","E92000001","England","E12000002","North West","Head teacher","Total",3082.529504,3097.825404
+"1028",201112,"Academic year","Regional","E92000001","England","E12000002","North West","Deputy head teacher","Total",2788.745005,2819.111653
+"1029",201112,"Academic year","Regional","E92000001","England","E12000002","North West","Assistant head teacher","Total",3116.390546,3178.025418
+"1030",201112,"Academic year","Regional","E92000001","England","E12000002","North West","Classroom teacher","Total",50469.42881,55369.2773
+"1031",201112,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Male",15382.1658,15877.03151
+"1032",201112,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Female",43955.55013,48468.01243
+"1033",201112,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Gender Unclassified",119.3779328,119.1958326
+"1034",201112,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Total",43921.73076,47958.73333
+"1035",201112,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Head teacher","Total",2263.282327,2294.183114
+"1036",201112,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Deputy head teacher","Total",1802.043629,1825.080101
+"1037",201112,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Assistant head teacher","Total",2405.909006,2452.093646
+"1038",201112,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Classroom teacher","Total",37450.4958,41387.37647
+"1039",201112,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Male",12008.61381,12429.41852
+"1040",201112,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Female",31899.13138,35514.81538
+"1041",201112,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Gender Unclassified",13.98557201,14.49943379
+"1042",201112,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Total",36901.48159,41004.15901
+"1043",201112,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Head teacher","Total",2046.946054,2063.468552
+"1044",201112,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Deputy head teacher","Total",1419.485224,1444.138112
+"1045",201112,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Assistant head teacher","Total",1778.168016,1820.841526
+"1046",201112,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Classroom teacher","Total",31656.88229,35675.71082
+"1047",201112,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Male",10088.86719,10501.28642
+"1048",201112,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Female",26785.16051,30473.12082
+"1049",201112,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Gender Unclassified",27.45388198,29.75176448
+"1050",201112,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Total",49086.086,53472.98696
+"1051",201112,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Head teacher","Total",2341.934429,2364.2903
+"1052",201112,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Deputy head teacher","Total",2141.584635,2168.806188
+"1053",201112,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Assistant head teacher","Total",2717.561684,2772.300103
+"1054",201112,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Classroom teacher","Total",41885.00526,46167.59037
+"1055",201112,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Male",12960.83484,13429.88694
+"1056",201112,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Female",35897.22848,39806.67197
+"1057",201112,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Gender Unclassified",228.0226868,236.4280501
+"1058",201112,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Total",48806.39277,54930.62751
+"1059",201112,"Academic year","Regional","E92000001","England","E12000006","East of England","Head teacher","Total",2464.357283,2479.020125
+"1060",201112,"Academic year","Regional","E92000001","England","E12000006","East of England","Deputy head teacher","Total",2060.108772,2100.401012
+"1061",201112,"Academic year","Regional","E92000001","England","E12000006","East of England","Assistant head teacher","Total",2322.57254,2408.399045
+"1062",201112,"Academic year","Regional","E92000001","England","E12000006","East of England","Classroom teacher","Total",41959.35417,47942.80732
+"1063",201112,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Male",12998.98543,13610.13238
+"1064",201112,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Female",35780.95083,41292.02423
+"1065",201112,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Gender Unclassified",26.45650412,28.47090209
+"1066",201112,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Total",69087.73739,77177.45522
+"1067",201112,"Academic year","Regional","E92000001","England","E12000008","South East","Head teacher","Total",3266.006642,3285.296333
+"1068",201112,"Academic year","Regional","E92000001","England","E12000008","South East","Deputy head teacher","Total",2799.995687,2858.164486
+"1069",201112,"Academic year","Regional","E92000001","England","E12000008","South East","Assistant head teacher","Total",3519.128633,3704.975941
+"1070",201112,"Academic year","Regional","E92000001","England","E12000008","South East","Classroom teacher","Total",59502.60642,67329.01846
+"1071",201112,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Male",17656.66175,18361.64723
+"1072",201112,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Female",51408.72642,58791.51826
+"1073",201112,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Gender Unclassified",22.34920872,24.28972313
+"1074",201112,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Total",40710.34084,46278.67857
+"1075",201112,"Academic year","Regional","E92000001","England","E12000009","South West","Head teacher","Total",2278.616653,2297.455244
+"1076",201112,"Academic year","Regional","E92000001","England","E12000009","South West","Deputy head teacher","Total",1702.788992,1735.130816
+"1077",201112,"Academic year","Regional","E92000001","England","E12000009","South West","Assistant head teacher","Total",1810.344142,1883.867945
+"1078",201112,"Academic year","Regional","E92000001","England","E12000009","South West","Classroom teacher","Total",34918.59105,40362.22457
+"1079",201112,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Male",12122.15551,12701.76832
+"1080",201112,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Female",28572.52544,33560.76302
+"1081",201112,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Gender Unclassified",15.65989076,16.14723032
+"1082",201112,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Total",24665.16025,26215.59754
+"1083",201112,"Academic year","Regional","E92000001","England","E13000001","Inner London","Head teacher","Total",951.9331457,956.5729018
+"1084",201112,"Academic year","Regional","E92000001","England","E13000001","Inner London","Deputy head teacher","Total",1065.456222,1090.326091
+"1085",201112,"Academic year","Regional","E92000001","England","E13000001","Inner London","Assistant head teacher","Total",1555.407674,1622.292045
+"1086",201112,"Academic year","Regional","E92000001","England","E13000001","Inner London","Classroom teacher","Total",21092.36321,22546.4065
+"1087",201112,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Male",6803.524554,7087.123786
+"1088",201112,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Female",17834.67343,19101.52353
+"1089",201112,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Gender Unclassified",26.96227149,26.95022624
+"1090",201112,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Total",44367.46264,48124.33127
+"1091",201112,"Academic year","Regional","E92000001","England","E13000002","Outer London","Head teacher","Total",1496.447095,1510.832836
+"1092",201112,"Academic year","Regional","E92000001","England","E13000002","Outer London","Deputy head teacher","Total",1832.377278,1874.045254
+"1093",201112,"Academic year","Regional","E92000001","England","E13000002","Outer London","Assistant head teacher","Total",2200.522214,2303.398695
+"1094",201112,"Academic year","Regional","E92000001","England","E13000002","Outer London","Classroom teacher","Total",38838.11605,42436.05448
+"1095",201112,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Male",11590.69748,12042.52183
+"1096",201112,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Female",32750.42383,36054.4498
+"1097",201112,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Gender Unclassified",26.34133697,27.35963945
+"1098",201011,"Academic year","National","E92000001","England","","","Total","Total",441353.752,485855.5609
+"1099",201011,"Academic year","National","E92000001","England","","","Head teacher","Total",21570.10064,21705.23412
+"1100",201011,"Academic year","National","E92000001","England","","","Deputy head teacher","Total",18920.45959,19220.78357
+"1101",201011,"Academic year","National","E92000001","England","","","Assistant head teacher","Total",22128.4511,22759.06686
+"1102",201011,"Academic year","National","E92000001","England","","","Classroom teacher","Total",378734.7407,422170.4764
+"1103",201011,"Academic year","National","E92000001","England","","","Total","Male",119445.7565,124357.8203
+"1104",201011,"Academic year","National","E92000001","England","","","Head teacher","Male",7550.213125,7567.225969
+"1105",201011,"Academic year","National","E92000001","England","","","Deputy head teacher","Male",6120.546146,6148.106558
+"1106",201011,"Academic year","National","E92000001","England","","","Assistant head teacher","Male",7887.601993,7966.896213
+"1107",201011,"Academic year","National","E92000001","England","","","Classroom teacher","Male",97887.39528,102675.5916
+"1108",201011,"Academic year","National","E92000001","England","","","Total","Female",321668.4509,361249.3138
+"1109",201011,"Academic year","National","E92000001","England","","","Head teacher","Female",14016.88076,14135.00139
+"1110",201011,"Academic year","National","E92000001","England","","","Deputy head teacher","Female",12796.49047,13069.65674
+"1111",201011,"Academic year","National","E92000001","England","","","Assistant head teacher","Female",14232.83425,14783.95714
+"1112",201011,"Academic year","National","E92000001","England","","","Classroom teacher","Female",280622.2454,319260.6985
+"1113",201011,"Academic year","National","E92000001","England","","","Total","Gender Unclassified",239.5446376,248.4268302
+"1114",201011,"Academic year","National","E92000001","England","","","Head teacher","Gender Unclassified",3.006756757,3.006756757
+"1115",201011,"Academic year","National","E92000001","England","","","Deputy head teacher","Gender Unclassified",3.422972973,3.02027027
+"1116",201011,"Academic year","National","E92000001","England","","","Assistant head teacher","Gender Unclassified",8.014864865,8.213513514
+"1117",201011,"Academic year","National","E92000001","England","","","Classroom teacher","Gender Unclassified",225.1000431,234.1862896
+"1118",201011,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Total",22596.57653,24337.13333
+"1119",201011,"Academic year","Regional","E92000001","England","E12000001","North East","Head teacher","Total",1156.619434,1176.133333
+"1120",201011,"Academic year","Regional","E92000001","England","E12000001","North East","Deputy head teacher","Total",1016.105615,1038.666667
+"1121",201011,"Academic year","Regional","E92000001","England","E12000001","North East","Assistant head teacher","Total",1290.933897,1354.066667
+"1122",201011,"Academic year","Regional","E92000001","England","E12000001","North East","Classroom teacher","Total",19132.91759,20768.26667
+"1123",201011,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Male",6117.129049,6300.666667
+"1124",201011,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Female",16475.44748,18032.46667
+"1125",201011,"Academic year","Regional","E92000001","England","E12000001","North East","Total","Gender Unclassified",4,4
+"1126",201011,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Total",60387.09406,65520.35739
+"1127",201011,"Academic year","Regional","E92000001","England","E12000002","North West","Head teacher","Total",3145.374127,3160.45494
+"1128",201011,"Academic year","Regional","E92000001","England","E12000002","North West","Deputy head teacher","Total",2818.286848,2852.268924
+"1129",201011,"Academic year","Regional","E92000001","England","E12000002","North West","Assistant head teacher","Total",3241.423048,3302.064244
+"1130",201011,"Academic year","Regional","E92000001","England","E12000002","North West","Classroom teacher","Total",51182.01004,56205.56928
+"1131",201011,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Male",15817.18787,16384.89709
+"1132",201011,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Female",44560.80618,49126.3603
+"1133",201011,"Academic year","Regional","E92000001","England","E12000002","North West","Total","Gender Unclassified",9.1,9.1
+"1134",201011,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Total",43697.41082,47630.60403
+"1135",201011,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Head teacher","Total",2238.315331,2254.754732
+"1136",201011,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Deputy head teacher","Total",1826.776442,1846.985929
+"1137",201011,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Assistant head teacher","Total",2414.576504,2472.100079
+"1138",201011,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Classroom teacher","Total",37217.74254,41056.76329
+"1139",201011,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Male",12111.04466,12538.66958
+"1140",201011,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Female",31571.97505,35076.92796
+"1141",201011,"Academic year","Regional","E92000001","England","E12000003","Yorkshire and The Humber","Total","Gender Unclassified",14.39110889,15.00649351
+"1142",201011,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Total",37037.42434,41160.09711
+"1143",201011,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Head teacher","Total",2076.431293,2089.245402
+"1144",201011,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Deputy head teacher","Total",1423.841073,1445.325471
+"1145",201011,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Assistant head teacher","Total",1846.935358,1888.103365
+"1146",201011,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Classroom teacher","Total",31690.21661,35737.42287
+"1147",201011,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Male",10289.44053,10732.76895
+"1148",201011,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Female",26738.46359,30415.13119
+"1149",201011,"Academic year","Regional","E92000001","England","E12000004","East Midlands","Total","Gender Unclassified",9.520221079,12.1969697
+"1150",201011,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Total",50744.05677,55454.37364
+"1151",201011,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Head teacher","Total",2381.97995,2395.108612
+"1152",201011,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Deputy head teacher","Total",2223.600245,2244.243397
+"1153",201011,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Assistant head teacher","Total",2687.723867,2740.078803
+"1154",201011,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Classroom teacher","Total",43450.75271,48074.94283
+"1155",201011,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Male",13637.75172,14245.97872
+"1156",201011,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Female",36981.89628,41082.35762
+"1157",201011,"Academic year","Regional","E92000001","England","E12000005","West Midlands","Total","Gender Unclassified",124.4087765,126.0372973
+"1158",201011,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Total",48525.50963,54541.2612
+"1159",201011,"Academic year","Regional","E92000001","England","E12000006","East of England","Head teacher","Total",2504.065846,2515.191035
+"1160",201011,"Academic year","Regional","E92000001","England","E12000006","East of England","Deputy head teacher","Total",2073.384026,2110.504742
+"1161",201011,"Academic year","Regional","E92000001","England","E12000006","East of England","Assistant head teacher","Total",2232.475494,2291.618392
+"1162",201011,"Academic year","Regional","E92000001","England","E12000006","East of England","Classroom teacher","Total",41715.58426,47623.94703
+"1163",201011,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Male",13173.26089,13816.47924
+"1164",201011,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Female",35327.46267,40698.79589
+"1165",201011,"Academic year","Regional","E92000001","England","E12000006","East of England","Total","Gender Unclassified",24.78606965,25.98606965
+"1166",201011,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Total",68769.70925,76791.4374
+"1167",201011,"Academic year","Regional","E92000001","England","E12000008","South East","Head teacher","Total",3317.858855,3334.839024
+"1168",201011,"Academic year","Regional","E92000001","England","E12000008","South East","Deputy head teacher","Total",2866.499636,2918.964634
+"1169",201011,"Academic year","Regional","E92000001","England","E12000008","South East","Assistant head teacher","Total",3075.62892,3182.365854
+"1170",201011,"Academic year","Regional","E92000001","England","E12000008","South East","Classroom teacher","Total",59509.72184,67355.26789
+"1171",201011,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Male",17717.48649,18407.39675
+"1172",201011,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Female",51032.32276,58364.14065
+"1173",201011,"Academic year","Regional","E92000001","England","E12000008","South East","Total","Gender Unclassified",19.9,19.9
+"1174",201011,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Total",40950.26838,46550.90667
+"1175",201011,"Academic year","Regional","E92000001","England","E12000009","South West","Head teacher","Total",2308.631734,2321.982668
+"1176",201011,"Academic year","Regional","E92000001","England","E12000009","South West","Deputy head teacher","Total",1722.282862,1750.687749
+"1177",201011,"Academic year","Regional","E92000001","England","E12000009","South West","Assistant head teacher","Total",1755.710275,1809.24042
+"1178",201011,"Academic year","Regional","E92000001","England","E12000009","South West","Classroom teacher","Total",35163.64351,40668.99583
+"1179",201011,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Male",12203.95101,12826.77473
+"1180",201011,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Female",28739.81737,33717.13193
+"1181",201011,"Academic year","Regional","E92000001","England","E12000009","South West","Total","Gender Unclassified",6.5,7
+"1182",201011,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Total",24592.90998,26166.87754
+"1183",201011,"Academic year","Regional","E92000001","England","E13000001","Inner London","Head teacher","Total",943.1182236,952.5345232
+"1184",201011,"Academic year","Regional","E92000001","England","E13000001","Inner London","Deputy head teacher","Total",1073.57835,1099.489032
+"1185",201011,"Academic year","Regional","E92000001","England","E13000001","Inner London","Assistant head teacher","Total",1521.626744,1573.085318
+"1186",201011,"Academic year","Regional","E92000001","England","E13000001","Inner London","Classroom teacher","Total",21054.58666,22541.76867
+"1187",201011,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Male",6738.087804,7018.664574
+"1188",201011,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Female",17843.82217,19137.01297
+"1189",201011,"Academic year","Regional","E92000001","England","E13000001","Inner London","Total","Gender Unclassified",11,11.2
+"1190",201011,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Total",44052.79228,47702.51264
+"1191",201011,"Academic year","Regional","E92000001","England","E13000002","Outer London","Head teacher","Total",1497.705851,1504.989844
+"1192",201011,"Academic year","Regional","E92000001","England","E13000002","Outer London","Deputy head teacher","Total",1876.104492,1913.647024
+"1193",201011,"Academic year","Regional","E92000001","England","E13000002","Outer London","Assistant head teacher","Total",2061.416997,2146.343725
+"1194",201011,"Academic year","Regional","E92000001","England","E13000002","Outer London","Classroom teacher","Total",38617.56494,42137.53204
+"1195",201011,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Male",11640.41652,12085.52401
+"1196",201011,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Female",32396.4373,35598.98862
+"1197",201011,"Academic year","Regional","E92000001","England","E13000002","Outer London","Total","Gender Unclassified",15.93846153,18
